@@ -155,23 +155,23 @@ Description=External Regulator Board
 AllowFabrication=1
 ParameterCount=0
 VariationCount=58
-Variation1=Designator=C28|UniqueId=\QQJHPRPD|Kind=1|AlternatePart= 
-Variation2=Designator=C29|UniqueId=\ZAPGBFZI|Kind=1|AlternatePart= 
+Variation1=Designator=C28|UniqueId=\EEYJOVGM|Kind=1|AlternatePart= 
+Variation2=Designator=C29|UniqueId=\MZTJOKST|Kind=1|AlternatePart= 
 Variation3=Designator=C31|UniqueId=\SEEXDRMY|Kind=1|AlternatePart= 
 Variation4=Designator=C30|UniqueId=\HKAZGMAM|Kind=1|AlternatePart= 
 Variation5=Designator=C32|UniqueId=\TZCPPIBA|Kind=1|AlternatePart= 
 Variation6=Designator=C33|UniqueId=\RSSAZJVI|Kind=1|AlternatePart= 
 Variation7=Designator=C35|UniqueId=\BZHZZZIT|Kind=1|AlternatePart= 
 Variation8=Designator=C34|UniqueId=\THLIYSBW|Kind=1|AlternatePart= 
-Variation9=Designator=C38|UniqueId=\AIVGBMOG|Kind=1|AlternatePart= 
-Variation10=Designator=C37|UniqueId=\CLFQOKQI|Kind=1|AlternatePart= 
+Variation9=Designator=C38|UniqueId=\KVCLBVJK|Kind=1|AlternatePart= 
+Variation10=Designator=C37|UniqueId=\WODKGNFX|Kind=1|AlternatePart= 
 Variation11=Designator=C36|UniqueId=\JRDIQESE|Kind=1|AlternatePart= 
 Variation12=Designator=D3|UniqueId=\QZMBWXRN|Kind=1|AlternatePart= 
 Variation13=Designator=D2|UniqueId=\OTGCAFBH|Kind=1|AlternatePart= 
 Variation14=Designator=R40|UniqueId=\NUZGHMHA|Kind=1|AlternatePart= 
-Variation15=Designator=Q3|UniqueId=\HBYARNCE|Kind=1|AlternatePart= 
-Variation16=Designator=Q2|UniqueId=\GZLXNYTM|Kind=1|AlternatePart= 
-Variation17=Designator=Q1|UniqueId=\EETHELEH|Kind=1|AlternatePart= 
+Variation15=Designator=Q3|UniqueId=\XCQVYKGC|Kind=1|AlternatePart= 
+Variation16=Designator=Q2|UniqueId=\OGRGJGQL|Kind=1|AlternatePart= 
+Variation17=Designator=Q1|UniqueId=\HGFRFPIK|Kind=1|AlternatePart= 
 Variation18=Designator=L1|UniqueId=\OQFTPAXS|Kind=1|AlternatePart= 
 Variation19=Designator=D4|UniqueId=\ADQXGSTM|Kind=1|AlternatePart= 
 Variation20=Designator=U7|UniqueId=\UPKNZPRL|Kind=1|AlternatePart= 
@@ -187,20 +187,20 @@ Variation29=Designator=R44|UniqueId=\NELLGKHV|Kind=1|AlternatePart=
 Variation30=Designator=R43|UniqueId=\HZNRFDTT|Kind=1|AlternatePart= 
 Variation31=Designator=C39|UniqueId=\VLHJAOKJ|Kind=1|AlternatePart= 
 Variation32=Designator=C40|UniqueId=\NPZMGELD|Kind=1|AlternatePart= 
-Variation33=Designator=C41|UniqueId=\PISBYNYK|Kind=1|AlternatePart= 
-Variation34=Designator=C42|UniqueId=\WZPAJDSA|Kind=1|AlternatePart= 
-Variation35=Designator=C43|UniqueId=\FPYLJIVF|Kind=1|AlternatePart= 
+Variation33=Designator=C41|UniqueId=\XSKHYWHE|Kind=1|AlternatePart= 
+Variation34=Designator=C42|UniqueId=\TNQTPFTX|Kind=1|AlternatePart= 
+Variation35=Designator=C43|UniqueId=\IDTOLUQI|Kind=1|AlternatePart= 
 Variation36=Designator=C44|UniqueId=\ZASSBJLV|Kind=1|AlternatePart= 
 Variation37=Designator=C45|UniqueId=\FJQIUHQX|Kind=1|AlternatePart= 
 Variation38=Designator=C46|UniqueId=\KGWOVHWO|Kind=1|AlternatePart= 
-Variation39=Designator=C47|UniqueId=\NDGSMMRB|Kind=1|AlternatePart= 
-Variation40=Designator=C48|UniqueId=\CWFEDSDG|Kind=1|AlternatePart= 
-Variation41=Designator=C49|UniqueId=\YLIOAFDD|Kind=1|AlternatePart= 
+Variation39=Designator=C47|UniqueId=\KPRQKTJH|Kind=1|AlternatePart= 
+Variation40=Designator=C48|UniqueId=\ZOSOOQKO|Kind=1|AlternatePart= 
+Variation41=Designator=C49|UniqueId=\QLQRGPIW|Kind=1|AlternatePart= 
 Variation42=Designator=D5|UniqueId=\LCFMDXNT|Kind=1|AlternatePart= 
 Variation43=Designator=L2|UniqueId=\ACZOZZGK|Kind=1|AlternatePart= 
-Variation44=Designator=Q6|UniqueId=\OSOVSTJI|Kind=1|AlternatePart= 
-Variation45=Designator=Q7|UniqueId=\EYIBUPZH|Kind=1|AlternatePart= 
-Variation46=Designator=Q9|UniqueId=\YHBTLDCS|Kind=1|AlternatePart= 
+Variation44=Designator=Q6|UniqueId=\CNXBAXSJ|Kind=1|AlternatePart= 
+Variation45=Designator=Q7|UniqueId=\MSWPYEUH|Kind=1|AlternatePart= 
+Variation46=Designator=Q9|UniqueId=\QQWJWAEY|Kind=1|AlternatePart= 
 Variation47=Designator=R57|UniqueId=\JVFSQGPL|Kind=1|AlternatePart= 
 Variation48=Designator=R59|UniqueId=\BPFPOLNL|Kind=1|AlternatePart= 
 Variation49=Designator=R60|UniqueId=\UXTSLBGW|Kind=1|AlternatePart= 
@@ -219,6 +219,22 @@ ParamVariationCount=0
 UniqueID=EB5909B8-0B51-4F6E-A33C-122ECBDE6AB3
 Description=Onboard Regulators
 AllowFabrication=1
+ParameterCount=0
+VariationCount=0
+ParamVariationCount=0
+
+[ProjectVariant3]
+UniqueID=60D2D358-7AFE-4ADB-B934-BAAEB591378B
+Description=Variant of VESC_MotorController
+AllowFabrication=0
+ParameterCount=0
+VariationCount=0
+ParamVariationCount=0
+
+[ProjectVariant4]
+UniqueID=F5CCAFA1-943E-4AEF-9C49-779ABA55109B
+Description=Variant of VESC_MotorController_1
+AllowFabrication=0
 ParameterCount=0
 VariationCount=0
 ParamVariationCount=0
@@ -344,7 +360,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=AnyDesk Printer
+TargetPrinter=Cisdem PDFConverter OCR
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
