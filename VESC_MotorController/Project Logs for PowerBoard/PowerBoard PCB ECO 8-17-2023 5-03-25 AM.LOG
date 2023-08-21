@@ -1,0 +1,162 @@
+Change Component Footprint: Designator=C3 Old Footprint=CAPC5764X279N New Footprint=CAPC3216X178N
+Change Component Footprint: Designator=C4 Old Footprint=CAPC5764X279N New Footprint=CAPC3216X178N
+Change Component Footprint: Designator=C5 Old Footprint=CAPC5764X279N New Footprint=CAPC3216X178N
+Change Component Footprint: Designator=C9 Old Footprint=CAPC5764X279N New Footprint=CAPC3216X178N
+Change Component Footprint: Designator=C10 Old Footprint=CAPC5764X279N New Footprint=CAPC3216X178N
+Change Component Footprint: Designator=C11 Old Footprint=CAPC5764X279N New Footprint=CAPC3216X178N
+Change Component Footprint: Designator=C21 Old Footprint=CAPC5764X279N New Footprint=CAPC3216X178N
+Change Component Footprint: Designator=C22 Old Footprint=CAPC5764X279N New Footprint=CAPC3216X178N
+Change Component Footprint: Designator=C23 Old Footprint=CAPC5764X279N New Footprint=CAPC3216X178N
+Change Component Footprint: Designator=C27 Old Footprint=CAPC5764X279N New Footprint=CAPC3216X178N
+Change Component Footprint: Designator=C28 Old Footprint=CAPC5764X279N New Footprint=CAPC3216X178N
+Change Component Footprint: Designator=C29 Old Footprint=CAPC5764X279N New Footprint=CAPC3216X178N
+Change Component Footprint: Designator=C41 Old Footprint=CAPC5764X279N New Footprint=CAPC3216X178N
+Change Component Footprint: Designator=C42 Old Footprint=CAPC5764X279N New Footprint=CAPC3216X178N
+Change Component Footprint: Designator=C43 Old Footprint=CAPC5764X279N New Footprint=CAPC3216X178N
+Change Component Footprint: Designator=C48 Old Footprint=CAPC5764X279N New Footprint=CAPC3216X178N
+Change Component Footprint: Designator=C49 Old Footprint=CAPC5764X279N New Footprint=CAPC3216X178N
+Change Component Footprint: Designator=C50 Old Footprint=CAPC5764X279N New Footprint=CAPC3216X178N
+Change Component Comment : Designator=C3 Old Comment=2.2uF New Comment=2.2uF 100V
+Change Component Comment : Designator=C4 Old Comment=2.2uF New Comment=2.2uF 100V
+Change Component Comment : Designator=C5 Old Comment=2.2uF New Comment=2.2uF 100V
+Change Component Comment : Designator=C9 Old Comment=2.2uF New Comment=2.2uF 100V
+Change Component Comment : Designator=C10 Old Comment=2.2uF New Comment=2.2uF 100V
+Change Component Comment : Designator=C11 Old Comment=2.2uF New Comment=2.2uF 100V
+Change Component Comment : Designator=C21 Old Comment=2.2uF New Comment=2.2uF 100V
+Change Component Comment : Designator=C22 Old Comment=2.2uF New Comment=2.2uF 100V
+Change Component Comment : Designator=C23 Old Comment=2.2uF New Comment=2.2uF 100V
+Change Component Comment : Designator=C27 Old Comment=2.2uF New Comment=2.2uF 100V
+Change Component Comment : Designator=C28 Old Comment=2.2uF New Comment=2.2uF 100V
+Change Component Comment : Designator=C29 Old Comment=2.2uF New Comment=2.2uF 100V
+Change Component Comment : Designator=C41 Old Comment=2.2uF New Comment=2.2uF 100V
+Change Component Comment : Designator=C42 Old Comment=2.2uF New Comment=2.2uF 100V
+Change Component Comment : Designator=C43 Old Comment=2.2uF New Comment=2.2uF 100V
+Change Component Comment : Designator=C48 Old Comment=2.2uF New Comment=2.2uF 100V
+Change Component Comment : Designator=C49 Old Comment=2.2uF New Comment=2.2uF 100V
+Change Component Comment : Designator=C50 Old Comment=2.2uF New Comment=2.2uF 100V
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAPC5764X279N"; UniqueID = "\RCRIREDV" ("\RCRIREDV")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "581-12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF 100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAPC5764X279N"; UniqueID = "\TAUUUFFE" ("\TAUUUFFE")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "581-12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF 100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAPC5764X279N"; UniqueID = "\WCZKRUZH" ("\WCZKRUZH")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "581-12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF 100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CAPC5764X279N"; UniqueID = "\ZLKKMZRT" ("\ZLKKMZRT")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "581-12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF 100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "CAPC5764X279N"; UniqueID = "\JHDFPVLN" ("\JHDFPVLN")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "581-12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF 100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "CAPC5764X279N"; UniqueID = "\JNKLOOOV" ("\JNKLOOOV")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "581-12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF 100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21" ("C21"); Footprint = "CAPC5764X279N"; UniqueID = "\ZVXIKMGS" ("\ZVXIKMGS")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "581-12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF 100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22" ("C22"); Footprint = "CAPC5764X279N"; UniqueID = "\YYOZITHO" ("\YYOZITHO")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "581-12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF 100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23" ("C23"); Footprint = "CAPC5764X279N"; UniqueID = "\HNZUZHEW" ("\HNZUZHEW")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "581-12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF 100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27" ("C27"); Footprint = "CAPC5764X279N"; UniqueID = "\JRDGKTXC" ("\JRDGKTXC")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "581-12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF 100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C28" ("C28"); Footprint = "CAPC5764X279N"; UniqueID = "\DAJMESFU" ("\DAJMESFU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "581-12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF 100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C29" ("C29"); Footprint = "CAPC5764X279N"; UniqueID = "\WSXPIOHC" ("\WSXPIOHC")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "581-12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF 100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C41" ("C41"); Footprint = "CAPC5764X279N"; UniqueID = "\MMIMKRAW" ("\MMIMKRAW")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "581-12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF 100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C42" ("C42"); Footprint = "CAPC5764X279N"; UniqueID = "\THMWXTGM" ("\THMWXTGM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "581-12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF 100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C43" ("C43"); Footprint = "CAPC5764X279N"; UniqueID = "\LEAOIAJI" ("\LEAOIAJI")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "581-12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF 100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C48" ("C48"); Footprint = "CAPC5764X279N"; UniqueID = "\YWZPTLSV" ("\YWZPTLSV")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "581-12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF 100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C49" ("C49"); Footprint = "CAPC5764X279N"; UniqueID = "\TJGKDTMB" ("\TJGKDTMB")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "581-12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF 100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C50" ("C50"); Footprint = "CAPC5764X279N"; UniqueID = "\CDTZVCTZ" ("\CDTZVCTZ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "581-12061C225MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF 100V"; VariantName = "[No Variations]"

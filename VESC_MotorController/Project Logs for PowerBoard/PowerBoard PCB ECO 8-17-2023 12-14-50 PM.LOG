@@ -1,0 +1,30 @@
+Change Component Comment : Designator=J1 Old Comment=PHASE_W New Comment=PHASE_U
+Change Component Comment : Designator=J4 Old Comment=PHASE_W New Comment=PHASE_V
+Added Component: Designator=J21(61030621821)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61030621821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "710-61030621821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "61030621821"; VariantName = "[No Variations]"
+Added Component: Designator=J22(61030621821)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61030621821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "710-61030621821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "61030621821"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN+ Pin=J21-1
+Added Pin To Net: NetName=VIN+ Pin=J21-2
+Added Pin To Net: NetName=VIN+ Pin=J21-3
+Added Pin To Net: NetName=VIN+ Pin=J21-4
+Added Pin To Net: NetName=VIN+ Pin=J21-5
+Added Pin To Net: NetName=VIN+ Pin=J21-6
+Added Pin To Net: NetName=GND Pin=J22-1
+Added Pin To Net: NetName=GND Pin=J22-2
+Added Pin To Net: NetName=GND Pin=J22-3
+Added Pin To Net: NetName=GND Pin=J22-4
+Added Pin To Net: NetName=GND Pin=J22-5
+Added Pin To Net: NetName=GND Pin=J22-6
+Added Member To Class: ClassName=PowerBoard Member=Component J21 VIN+
+Added Member To Class: ClassName=PowerBoard Member=Component J22 VIN-

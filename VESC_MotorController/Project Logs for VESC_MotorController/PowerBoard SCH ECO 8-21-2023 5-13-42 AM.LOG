@@ -1,0 +1,85 @@
+Remove Pin=B1-2 From Net=TEMP_U
+Remove Pin=B2-2 From Net=TEMP_V
+Remove Pin=B3-2 From Net=TEMP_W
+Remove Pin=J1-1 From Net=PWM_U_HIGH
+Remove Pin=J1-2 From Net=PWM_U_LOW
+Remove Pin=J1-4 From Net=TEMP_U
+Remove Pin=J1-5 From Net=OUT_U
+Remove Pin=J1-6 From Net=PHASE_U
+Remove Pin=J4-1 From Net=PWM_V_HIGH
+Remove Pin=J4-2 From Net=PWM_V_LOW
+Remove Pin=J4-4 From Net=TEMP_V
+Remove Pin=J4-5 From Net=OUT_V
+Remove Pin=J4-6 From Net=PHASE_V
+Remove Pin=J9-1 From Net=PWM_W_HIGH
+Remove Pin=J9-2 From Net=PWM_W_LOW
+Remove Pin=J9-4 From Net=TEMP_W
+Remove Pin=J9-5 From Net=OUT_W
+Remove Pin=J9-6 From Net=PHASE_W
+Change Component Footprint: Designator=C22 Old Footprint=CAPC3216X178N New Footprint=C0402
+Change Component Footprint: Designator=C23 Old Footprint=CAPC3216X178N New Footprint=C0402
+Change Component Footprint: Designator=C27 Old Footprint=CAPC3216X178N New Footprint=C0402
+Change Component Footprint: Designator=C28 Old Footprint=CAPC3216X178N New Footprint=C0402
+Change Component Footprint: Designator=C29 Old Footprint=CAPC3216X178N New Footprint=C0402
+Change Component Footprint: Designator=C42 Old Footprint=CAPC3216X178N New Footprint=C0402
+Change Component Footprint: Designator=C4 Old Footprint=CAPC3216X178N New Footprint=C0603
+Change Component Footprint: Designator=C5 Old Footprint=CAPC3216X178N New Footprint=C0603
+Change Component Footprint: Designator=C9 Old Footprint=CAPC3216X178N New Footprint=C0603
+Change Component Footprint: Designator=C10 Old Footprint=CAPC3216X178N New Footprint=C0603
+Change Component Footprint: Designator=C11 Old Footprint=CAPC3216X178N New Footprint=C0603
+Change Component Footprint: Designator=C21 Old Footprint=CAPC3216X178N New Footprint=C0603
+Change Component Footprint: Designator=C41 Old Footprint=CAPC3216X178N New Footprint=C0603
+Change Component Footprint: Designator=C3 Old Footprint=CAPC3216X178N New Footprint=CAPPRD250W50D630H1250
+Change Component Footprint: Designator=C43 Old Footprint=CAPC3216X178N New Footprint=CAPPRD500W65D1250H2200
+Change Component Footprint: Designator=C48 Old Footprint=CAPC3216X178N New Footprint=CAPPRD500W65D1250H2200
+Change Component Footprint: Designator=C49 Old Footprint=CAPC3216X178N New Footprint=CAPPRD500W65D1250H2200
+Change Component Footprint: Designator=R2 Old Footprint=RESC10052X137N New Footprint=R0603
+Change Component Footprint: Designator=R3 Old Footprint=RESC10052X137N New Footprint=R0603
+Change Component Footprint: Designator=R14 Old Footprint=RESC10052X137N New Footprint=R0603
+Change Component Footprint: Designator=R6 Old Footprint=RESC10052X137N New Footprint=R0805
+Change Component Footprint: Designator=R11 Old Footprint=RESC10052X137N New Footprint=R0805
+Change Component Footprint: Designator=R25 Old Footprint=RESC10052X137N New Footprint=R1206
+Change Component Footprint: Designator=R26 Old Footprint=RESC10052X137N New Footprint=R1206
+Change Component Footprint: Designator=R28 Old Footprint=RESC10052X137N New Footprint=R1206
+Change Component Footprint: Designator=R33 Old Footprint=RESC10052X137N New Footprint=R1206
+Change Component Footprint: Designator=R35 Old Footprint=RESC10052X137N New Footprint=R1206
+Change Component Footprint: Designator=R46 Old Footprint=RESC10052X137N New Footprint=R1206
+Change Component Footprint: Designator=R47 Old Footprint=RESC10052X137N New Footprint=R1206
+Change Component Footprint: Designator=R49 Old Footprint=RESC10052X137N New Footprint=R1206
+Change Component Comment: Designator=R2 Old Comment=0.5mR/9W New Comment=1k
+Change Component Comment: Designator=R3 Old Comment=0.5mR/9W New Comment=1k
+Change Component Comment: Designator=R11 Old Comment=0.5mR/9W New Comment=2.2k
+Change Component Comment: Designator=R26 Old Comment=0.5mR/9W New Comment=4.7R
+Change Component Comment: Designator=R28 Old Comment=0.5mR/9W New Comment=4.7R
+Change Component Comment: Designator=R14 Old Comment=0.5mR/9W New Comment=10k
+Change Component Comment: Designator=R25 Old Comment=0.5mR/9W New Comment=20R
+Change Component Comment: Designator=R33 Old Comment=0.5mR/9W New Comment=20R
+Change Component Comment: Designator=R35 Old Comment=0.5mR/9W New Comment=20R
+Change Component Comment: Designator=R46 Old Comment=0.5mR/9W New Comment=20R
+Change Component Comment: Designator=R47 Old Comment=0.5mR/9W New Comment=20R
+Change Component Comment: Designator=R49 Old Comment=0.5mR/9W New Comment=20R
+Change Component Comment: Designator=R6 Old Comment=0.5mR/9W New Comment=39k
+Change Component Comment: Designator=C4 Old Comment==Value New Comment=2.2uF
+Change Component Comment: Designator=C5 Old Comment==Value New Comment=2.2uF
+Change Component Comment: Designator=C9 Old Comment==Value New Comment=2.2uF
+Change Component Comment: Designator=C10 Old Comment==Value New Comment=2.2uF
+Change Component Comment: Designator=C11 Old Comment==Value New Comment=2.2uF
+Change Component Comment: Designator=C21 Old Comment==Value New Comment=4.7uF
+Change Component Comment: Designator=C41 Old Comment==Value New Comment=4.7uF
+Change Component Comment: Designator=C22 Old Comment==Value New Comment=100nF
+Change Component Comment: Designator=C23 Old Comment==Value New Comment=100nF
+Change Component Comment: Designator=C27 Old Comment==Value New Comment=100nF
+Change Component Comment: Designator=C28 Old Comment==Value New Comment=100nF
+Change Component Comment: Designator=C29 Old Comment==Value New Comment=100nF
+Change Component Comment: Designator=C42 Old Comment==Value New Comment=100nF
+Change Component Comment: Designator=C3 Old Comment==Value New Comment=100uF 25V
+Change Component Comment: Designator=C43 Old Comment==Value New Comment=220uF 100V
+Change Component Comment: Designator=C48 Old Comment==Value New Comment=220uF 100V
+Change Component Comment: Designator=C49 Old Comment==Value New Comment=220uF 100V
+Change Pin Designator/Name:  Old Designator=C3-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C9-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C10-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C11-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C28-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C29-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C43-1 Old Name=1 New Designator =2 New Name=2
