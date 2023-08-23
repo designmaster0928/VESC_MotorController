@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=PHASE_U Pin=J5-1
-Removed Pin From Net: NetName=PHASE_V Pin=J6-1
-Removed Pin From Net: NetName=PHASE_W Pin=J7-1
-Added Pin To Net: NetName=OUT_U Pin=J5-1
-Added Pin To Net: NetName=OUT_V Pin=J6-1
-Added Pin To Net: NetName=OUT_W Pin=J7-1
