@@ -1,0 +1,2437 @@
+Removed Pin From Net: NetName=+3V3 Pin=B1-1
+Removed Pin From Net: NetName=TEMP_U Pin=B1-2
+Removed Pin From Net: NetName=+3V3 Pin=B2-1
+Removed Pin From Net: NetName=TEMP_V Pin=B2-2
+Removed Pin From Net: NetName=+3V3 Pin=B3-1
+Removed Pin From Net: NetName=TEMP_W Pin=B3-2
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=VIN+ Pin=C3-2
+Removed Pin From Net: NetName=VIN+ Pin=C4-2
+Removed Pin From Net: NetName=VIN+ Pin=C5-2
+Removed Pin From Net: NetName=VIN+ Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=VIN+ Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=VIN+ Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C23-1
+Removed Pin From Net: NetName=VIN+ Pin=C23-2
+Removed Pin From Net: NetName=VIN+ Pin=C27-1
+Removed Pin From Net: NetName=VIN+ Pin=C28-1
+Removed Pin From Net: NetName=GND Pin=C28-2
+Removed Pin From Net: NetName=VIN+ Pin=C29-1
+Removed Pin From Net: NetName=GND Pin=C29-2
+Removed Pin From Net: NetName=GND Pin=C43-1
+Removed Pin From Net: NetName=VIN+ Pin=C43-2
+Removed Pin From Net: NetName=VIN+ Pin=C48-1
+Removed Pin From Net: NetName=VIN+ Pin=C49-1
+Removed Pin From Net: NetName=VIN+ Pin=C50-1
+Removed Pin From Net: NetName=GND Pin=C50-2
+Removed Pin From Net: NetName=PWM_U_HIGH Pin=J1-1
+Removed Pin From Net: NetName=PWM_U_LOW Pin=J1-2
+Removed Pin From Net: NetName=+3V3 Pin=J1-3
+Removed Pin From Net: NetName=TEMP_U Pin=J1-4
+Removed Pin From Net: NetName=OUT_U Pin=J1-5
+Removed Pin From Net: NetName=PHASE_U Pin=J1-6
+Removed Pin From Net: NetName=VIN+ Pin=J2-1
+Removed Pin From Net: NetName=VIN+ Pin=J2-1
+Removed Pin From Net: NetName=VIN+ Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J3-1
+Removed Pin From Net: NetName=PWM_V_HIGH Pin=J4-1
+Removed Pin From Net: NetName=PWM_V_LOW Pin=J4-2
+Removed Pin From Net: NetName=+3V3 Pin=J4-3
+Removed Pin From Net: NetName=TEMP_V Pin=J4-4
+Removed Pin From Net: NetName=OUT_V Pin=J4-5
+Removed Pin From Net: NetName=PHASE_V Pin=J4-6
+Removed Pin From Net: NetName=OUT_U Pin=J5-1
+Removed Pin From Net: NetName=OUT_V Pin=J6-1
+Removed Pin From Net: NetName=OUT_W Pin=J7-1
+Removed Pin From Net: NetName=PWM_W_HIGH Pin=J9-1
+Removed Pin From Net: NetName=PWM_W_LOW Pin=J9-2
+Removed Pin From Net: NetName=+3V3 Pin=J9-3
+Removed Pin From Net: NetName=TEMP_W Pin=J9-4
+Removed Pin From Net: NetName=OUT_W Pin=J9-5
+Removed Pin From Net: NetName=PHASE_W Pin=J9-6
+Removed Pin From Net: NetName=VIN+ Pin=J21-1
+Removed Pin From Net: NetName=VIN+ Pin=J21-2
+Removed Pin From Net: NetName=VIN+ Pin=J21-3
+Removed Pin From Net: NetName=VIN+ Pin=J21-4
+Removed Pin From Net: NetName=VIN+ Pin=J21-5
+Removed Pin From Net: NetName=VIN+ Pin=J21-6
+Removed Pin From Net: NetName=GND Pin=J22-1
+Removed Pin From Net: NetName=GND Pin=J22-2
+Removed Pin From Net: NetName=GND Pin=J22-3
+Removed Pin From Net: NetName=GND Pin=J22-4
+Removed Pin From Net: NetName=GND Pin=J22-5
+Removed Pin From Net: NetName=GND Pin=J22-6
+Removed Pin From Net: NetName=PHASE_U Pin=J31-1
+Removed Pin From Net: NetName=PHASE_U Pin=J31-1
+Removed Pin From Net: NetName=PHASE_V Pin=J32-1
+Removed Pin From Net: NetName=PHASE_V Pin=J32-1
+Removed Pin From Net: NetName=PHASE_W Pin=J33-1
+Removed Pin From Net: NetName=PHASE_W Pin=J33-1
+Removed Pin From Net: NetName=VIN+ Pin=Q1-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q1-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q1-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q1-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q1-DRAIN
+Removed Pin From Net: NetName=PWM_U_HIGH Pin=Q1-GATE
+Removed Pin From Net: NetName=PHASE_U Pin=Q1-SOURCE
+Removed Pin From Net: NetName=PHASE_U Pin=Q1-SOURCE
+Removed Pin From Net: NetName=PHASE_U Pin=Q1-SOURCE
+Removed Pin From Net: NetName=VIN+ Pin=Q2-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q2-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q2-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q2-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q2-DRAIN
+Removed Pin From Net: NetName=PWM_U_HIGH Pin=Q2-GATE
+Removed Pin From Net: NetName=PHASE_U Pin=Q2-SOURCE
+Removed Pin From Net: NetName=PHASE_U Pin=Q2-SOURCE
+Removed Pin From Net: NetName=PHASE_U Pin=Q2-SOURCE
+Removed Pin From Net: NetName=VIN+ Pin=Q3-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q3-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q3-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q3-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q3-DRAIN
+Removed Pin From Net: NetName=PWM_U_HIGH Pin=Q3-GATE
+Removed Pin From Net: NetName=PHASE_U Pin=Q3-SOURCE
+Removed Pin From Net: NetName=PHASE_U Pin=Q3-SOURCE
+Removed Pin From Net: NetName=PHASE_U Pin=Q3-SOURCE
+Removed Pin From Net: NetName=VIN+ Pin=Q4-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q4-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q4-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q4-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q4-DRAIN
+Removed Pin From Net: NetName=PWM_U_HIGH Pin=Q4-GATE
+Removed Pin From Net: NetName=PHASE_U Pin=Q4-SOURCE
+Removed Pin From Net: NetName=PHASE_U Pin=Q4-SOURCE
+Removed Pin From Net: NetName=PHASE_U Pin=Q4-SOURCE
+Removed Pin From Net: NetName=PHASE_U Pin=Q5-DRAIN
+Removed Pin From Net: NetName=PHASE_U Pin=Q5-DRAIN
+Removed Pin From Net: NetName=PHASE_U Pin=Q5-DRAIN
+Removed Pin From Net: NetName=PHASE_U Pin=Q5-DRAIN
+Removed Pin From Net: NetName=PHASE_U Pin=Q5-DRAIN
+Removed Pin From Net: NetName=PWM_U_LOW Pin=Q5-GATE
+Removed Pin From Net: NetName=GND Pin=Q5-SOURCE
+Removed Pin From Net: NetName=GND Pin=Q5-SOURCE
+Removed Pin From Net: NetName=GND Pin=Q5-SOURCE
+Removed Pin From Net: NetName=PHASE_U Pin=Q6-DRAIN
+Removed Pin From Net: NetName=PHASE_U Pin=Q6-DRAIN
+Removed Pin From Net: NetName=PHASE_U Pin=Q6-DRAIN
+Removed Pin From Net: NetName=PHASE_U Pin=Q6-DRAIN
+Removed Pin From Net: NetName=PHASE_U Pin=Q6-DRAIN
+Removed Pin From Net: NetName=PWM_U_LOW Pin=Q6-GATE
+Removed Pin From Net: NetName=GND Pin=Q6-SOURCE
+Removed Pin From Net: NetName=GND Pin=Q6-SOURCE
+Removed Pin From Net: NetName=GND Pin=Q6-SOURCE
+Removed Pin From Net: NetName=PHASE_U Pin=Q7-DRAIN
+Removed Pin From Net: NetName=PHASE_U Pin=Q7-DRAIN
+Removed Pin From Net: NetName=PHASE_U Pin=Q7-DRAIN
+Removed Pin From Net: NetName=PHASE_U Pin=Q7-DRAIN
+Removed Pin From Net: NetName=PHASE_U Pin=Q7-DRAIN
+Removed Pin From Net: NetName=PWM_U_LOW Pin=Q7-GATE
+Removed Pin From Net: NetName=GND Pin=Q7-SOURCE
+Removed Pin From Net: NetName=GND Pin=Q7-SOURCE
+Removed Pin From Net: NetName=GND Pin=Q7-SOURCE
+Removed Pin From Net: NetName=PHASE_U Pin=Q8-DRAIN
+Removed Pin From Net: NetName=PHASE_U Pin=Q8-DRAIN
+Removed Pin From Net: NetName=PHASE_U Pin=Q8-DRAIN
+Removed Pin From Net: NetName=PHASE_U Pin=Q8-DRAIN
+Removed Pin From Net: NetName=PHASE_U Pin=Q8-DRAIN
+Removed Pin From Net: NetName=PWM_U_LOW Pin=Q8-GATE
+Removed Pin From Net: NetName=GND Pin=Q8-SOURCE
+Removed Pin From Net: NetName=GND Pin=Q8-SOURCE
+Removed Pin From Net: NetName=GND Pin=Q8-SOURCE
+Removed Pin From Net: NetName=VIN+ Pin=Q9-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q9-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q9-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q9-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q9-DRAIN
+Removed Pin From Net: NetName=PWM_V_HIGH Pin=Q9-GATE
+Removed Pin From Net: NetName=PHASE_V Pin=Q9-SOURCE
+Removed Pin From Net: NetName=PHASE_V Pin=Q9-SOURCE
+Removed Pin From Net: NetName=PHASE_V Pin=Q9-SOURCE
+Removed Pin From Net: NetName=VIN+ Pin=Q10-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q10-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q10-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q10-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q10-DRAIN
+Removed Pin From Net: NetName=PWM_V_HIGH Pin=Q10-GATE
+Removed Pin From Net: NetName=PHASE_V Pin=Q10-SOURCE
+Removed Pin From Net: NetName=PHASE_V Pin=Q10-SOURCE
+Removed Pin From Net: NetName=PHASE_V Pin=Q10-SOURCE
+Removed Pin From Net: NetName=VIN+ Pin=Q11-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q11-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q11-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q11-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q11-DRAIN
+Removed Pin From Net: NetName=PWM_V_HIGH Pin=Q11-GATE
+Removed Pin From Net: NetName=PHASE_V Pin=Q11-SOURCE
+Removed Pin From Net: NetName=PHASE_V Pin=Q11-SOURCE
+Removed Pin From Net: NetName=PHASE_V Pin=Q11-SOURCE
+Removed Pin From Net: NetName=VIN+ Pin=Q12-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q12-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q12-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q12-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q12-DRAIN
+Removed Pin From Net: NetName=PWM_V_HIGH Pin=Q12-GATE
+Removed Pin From Net: NetName=PHASE_V Pin=Q12-SOURCE
+Removed Pin From Net: NetName=PHASE_V Pin=Q12-SOURCE
+Removed Pin From Net: NetName=PHASE_V Pin=Q12-SOURCE
+Removed Pin From Net: NetName=PHASE_V Pin=Q13-DRAIN
+Removed Pin From Net: NetName=PHASE_V Pin=Q13-DRAIN
+Removed Pin From Net: NetName=PHASE_V Pin=Q13-DRAIN
+Removed Pin From Net: NetName=PHASE_V Pin=Q13-DRAIN
+Removed Pin From Net: NetName=PHASE_V Pin=Q13-DRAIN
+Removed Pin From Net: NetName=PWM_V_LOW Pin=Q13-GATE
+Removed Pin From Net: NetName=GND Pin=Q13-SOURCE
+Removed Pin From Net: NetName=GND Pin=Q13-SOURCE
+Removed Pin From Net: NetName=GND Pin=Q13-SOURCE
+Removed Pin From Net: NetName=PHASE_V Pin=Q14-DRAIN
+Removed Pin From Net: NetName=PHASE_V Pin=Q14-DRAIN
+Removed Pin From Net: NetName=PHASE_V Pin=Q14-DRAIN
+Removed Pin From Net: NetName=PHASE_V Pin=Q14-DRAIN
+Removed Pin From Net: NetName=PHASE_V Pin=Q14-DRAIN
+Removed Pin From Net: NetName=PWM_V_LOW Pin=Q14-GATE
+Removed Pin From Net: NetName=GND Pin=Q14-SOURCE
+Removed Pin From Net: NetName=GND Pin=Q14-SOURCE
+Removed Pin From Net: NetName=GND Pin=Q14-SOURCE
+Removed Pin From Net: NetName=PHASE_V Pin=Q15-DRAIN
+Removed Pin From Net: NetName=PHASE_V Pin=Q15-DRAIN
+Removed Pin From Net: NetName=PHASE_V Pin=Q15-DRAIN
+Removed Pin From Net: NetName=PHASE_V Pin=Q15-DRAIN
+Removed Pin From Net: NetName=PHASE_V Pin=Q15-DRAIN
+Removed Pin From Net: NetName=PWM_V_LOW Pin=Q15-GATE
+Removed Pin From Net: NetName=GND Pin=Q15-SOURCE
+Removed Pin From Net: NetName=GND Pin=Q15-SOURCE
+Removed Pin From Net: NetName=GND Pin=Q15-SOURCE
+Removed Pin From Net: NetName=PHASE_V Pin=Q16-DRAIN
+Removed Pin From Net: NetName=PHASE_V Pin=Q16-DRAIN
+Removed Pin From Net: NetName=PHASE_V Pin=Q16-DRAIN
+Removed Pin From Net: NetName=PHASE_V Pin=Q16-DRAIN
+Removed Pin From Net: NetName=PHASE_V Pin=Q16-DRAIN
+Removed Pin From Net: NetName=PWM_V_LOW Pin=Q16-GATE
+Removed Pin From Net: NetName=GND Pin=Q16-SOURCE
+Removed Pin From Net: NetName=GND Pin=Q16-SOURCE
+Removed Pin From Net: NetName=GND Pin=Q16-SOURCE
+Removed Pin From Net: NetName=VIN+ Pin=Q17-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q17-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q17-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q17-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q17-DRAIN
+Removed Pin From Net: NetName=PWM_W_HIGH Pin=Q17-GATE
+Removed Pin From Net: NetName=PHASE_W Pin=Q17-SOURCE
+Removed Pin From Net: NetName=PHASE_W Pin=Q17-SOURCE
+Removed Pin From Net: NetName=PHASE_W Pin=Q17-SOURCE
+Removed Pin From Net: NetName=VIN+ Pin=Q18-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q18-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q18-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q18-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q18-DRAIN
+Removed Pin From Net: NetName=PWM_W_HIGH Pin=Q18-GATE
+Removed Pin From Net: NetName=PHASE_W Pin=Q18-SOURCE
+Removed Pin From Net: NetName=PHASE_W Pin=Q18-SOURCE
+Removed Pin From Net: NetName=PHASE_W Pin=Q18-SOURCE
+Removed Pin From Net: NetName=VIN+ Pin=Q19-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q19-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q19-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q19-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q19-DRAIN
+Removed Pin From Net: NetName=PWM_W_HIGH Pin=Q19-GATE
+Removed Pin From Net: NetName=PHASE_W Pin=Q19-SOURCE
+Removed Pin From Net: NetName=PHASE_W Pin=Q19-SOURCE
+Removed Pin From Net: NetName=PHASE_W Pin=Q19-SOURCE
+Removed Pin From Net: NetName=VIN+ Pin=Q20-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q20-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q20-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q20-DRAIN
+Removed Pin From Net: NetName=VIN+ Pin=Q20-DRAIN
+Removed Pin From Net: NetName=PWM_W_HIGH Pin=Q20-GATE
+Removed Pin From Net: NetName=PHASE_W Pin=Q20-SOURCE
+Removed Pin From Net: NetName=PHASE_W Pin=Q20-SOURCE
+Removed Pin From Net: NetName=PHASE_W Pin=Q20-SOURCE
+Removed Pin From Net: NetName=PHASE_W Pin=Q21-DRAIN
+Removed Pin From Net: NetName=PHASE_W Pin=Q21-DRAIN
+Removed Pin From Net: NetName=PHASE_W Pin=Q21-DRAIN
+Removed Pin From Net: NetName=PHASE_W Pin=Q21-DRAIN
+Removed Pin From Net: NetName=PHASE_W Pin=Q21-DRAIN
+Removed Pin From Net: NetName=PWM_W_LOW Pin=Q21-GATE
+Removed Pin From Net: NetName=GND Pin=Q21-SOURCE
+Removed Pin From Net: NetName=GND Pin=Q21-SOURCE
+Removed Pin From Net: NetName=GND Pin=Q21-SOURCE
+Removed Pin From Net: NetName=PHASE_W Pin=Q22-DRAIN
+Removed Pin From Net: NetName=PHASE_W Pin=Q22-DRAIN
+Removed Pin From Net: NetName=PHASE_W Pin=Q22-DRAIN
+Removed Pin From Net: NetName=PHASE_W Pin=Q22-DRAIN
+Removed Pin From Net: NetName=PHASE_W Pin=Q22-DRAIN
+Removed Pin From Net: NetName=PWM_W_LOW Pin=Q22-GATE
+Removed Pin From Net: NetName=GND Pin=Q22-SOURCE
+Removed Pin From Net: NetName=GND Pin=Q22-SOURCE
+Removed Pin From Net: NetName=GND Pin=Q22-SOURCE
+Removed Pin From Net: NetName=PHASE_W Pin=Q23-DRAIN
+Removed Pin From Net: NetName=PHASE_W Pin=Q23-DRAIN
+Removed Pin From Net: NetName=PHASE_W Pin=Q23-DRAIN
+Removed Pin From Net: NetName=PHASE_W Pin=Q23-DRAIN
+Removed Pin From Net: NetName=PHASE_W Pin=Q23-DRAIN
+Removed Pin From Net: NetName=PWM_W_LOW Pin=Q23-GATE
+Removed Pin From Net: NetName=GND Pin=Q23-SOURCE
+Removed Pin From Net: NetName=GND Pin=Q23-SOURCE
+Removed Pin From Net: NetName=GND Pin=Q23-SOURCE
+Removed Pin From Net: NetName=PHASE_W Pin=Q24-DRAIN
+Removed Pin From Net: NetName=PHASE_W Pin=Q24-DRAIN
+Removed Pin From Net: NetName=PHASE_W Pin=Q24-DRAIN
+Removed Pin From Net: NetName=PHASE_W Pin=Q24-DRAIN
+Removed Pin From Net: NetName=PHASE_W Pin=Q24-DRAIN
+Removed Pin From Net: NetName=PWM_W_LOW Pin=Q24-GATE
+Removed Pin From Net: NetName=GND Pin=Q24-SOURCE
+Removed Pin From Net: NetName=GND Pin=Q24-SOURCE
+Removed Pin From Net: NetName=GND Pin=Q24-SOURCE
+Removed Pin From Net: NetName=OUT_U Pin=R2-1
+Removed Pin From Net: NetName=PHASE_U Pin=R2-2
+Removed Pin From Net: NetName=OUT_U Pin=R3-1
+Removed Pin From Net: NetName=PHASE_U Pin=R3-2
+Removed Pin From Net: NetName=OUT_U Pin=R6-1
+Removed Pin From Net: NetName=PHASE_U Pin=R6-2
+Removed Pin From Net: NetName=OUT_U Pin=R11-1
+Removed Pin From Net: NetName=PHASE_U Pin=R11-2
+Removed Pin From Net: NetName=OUT_U Pin=R14-1
+Removed Pin From Net: NetName=PHASE_U Pin=R14-2
+Removed Pin From Net: NetName=OUT_V Pin=R25-1
+Removed Pin From Net: NetName=PHASE_V Pin=R25-2
+Removed Pin From Net: NetName=OUT_V Pin=R26-1
+Removed Pin From Net: NetName=PHASE_V Pin=R26-2
+Removed Pin From Net: NetName=OUT_V Pin=R28-1
+Removed Pin From Net: NetName=PHASE_V Pin=R28-2
+Removed Pin From Net: NetName=OUT_V Pin=R33-1
+Removed Pin From Net: NetName=PHASE_V Pin=R33-2
+Removed Pin From Net: NetName=OUT_V Pin=R35-1
+Removed Pin From Net: NetName=PHASE_V Pin=R35-2
+Removed Pin From Net: NetName=OUT_W Pin=R46-1
+Removed Pin From Net: NetName=PHASE_W Pin=R46-2
+Removed Pin From Net: NetName=OUT_W Pin=R47-1
+Removed Pin From Net: NetName=PHASE_W Pin=R47-2
+Removed Pin From Net: NetName=OUT_W Pin=R49-1
+Removed Pin From Net: NetName=PHASE_W Pin=R49-2
+Removed Pin From Net: NetName=OUT_W Pin=R54-1
+Removed Pin From Net: NetName=PHASE_W Pin=R54-2
+Removed Pin From Net: NetName=OUT_W Pin=R56-1
+Removed Pin From Net: NetName=PHASE_W Pin=R56-2
+Removed Member From Class: ClassName=PowerBoard Member=B1
+Removed Member From Class: ClassName=PowerBoard Member=B2
+Removed Member From Class: ClassName=PowerBoard Member=B3
+Removed Member From Class: ClassName=PowerBoard Member=C3
+Removed Member From Class: ClassName=PowerBoard Member=C4
+Removed Member From Class: ClassName=PowerBoard Member=C5
+Removed Member From Class: ClassName=PowerBoard Member=C9
+Removed Member From Class: ClassName=PowerBoard Member=C10
+Removed Member From Class: ClassName=PowerBoard Member=C11
+Removed Member From Class: ClassName=PowerBoard Member=C43
+Removed Member From Class: ClassName=PowerBoard Member=C48
+Removed Member From Class: ClassName=PowerBoard Member=C49
+Removed Member From Class: ClassName=PowerBoard Member=C50
+Removed Member From Class: ClassName=PowerBoard Member=J1
+Removed Member From Class: ClassName=PowerBoard Member=J2
+Removed Member From Class: ClassName=PowerBoard Member=J3
+Removed Member From Class: ClassName=PowerBoard Member=J4
+Removed Member From Class: ClassName=PowerBoard Member=J5
+Removed Member From Class: ClassName=PowerBoard Member=J6
+Removed Member From Class: ClassName=PowerBoard Member=J7
+Removed Member From Class: ClassName=PowerBoard Member=J9
+Removed Member From Class: ClassName=PowerBoard Member=J21
+Removed Member From Class: ClassName=PowerBoard Member=J22
+Removed Member From Class: ClassName=PowerBoard Member=J31
+Removed Member From Class: ClassName=PowerBoard Member=J32
+Removed Member From Class: ClassName=PowerBoard Member=J33
+Removed Member From Class: ClassName=PowerBoard Member=Q1
+Removed Member From Class: ClassName=PowerBoard Member=Q2
+Removed Member From Class: ClassName=PowerBoard Member=Q3
+Removed Member From Class: ClassName=PowerBoard Member=Q4
+Removed Member From Class: ClassName=PowerBoard Member=Q5
+Removed Member From Class: ClassName=PowerBoard Member=Q6
+Removed Member From Class: ClassName=PowerBoard Member=Q7
+Removed Member From Class: ClassName=PowerBoard Member=Q8
+Removed Member From Class: ClassName=PowerBoard Member=Q9
+Removed Member From Class: ClassName=PowerBoard Member=Q10
+Removed Member From Class: ClassName=PowerBoard Member=Q11
+Removed Member From Class: ClassName=PowerBoard Member=Q12
+Removed Member From Class: ClassName=PowerBoard Member=Q13
+Removed Member From Class: ClassName=PowerBoard Member=Q14
+Removed Member From Class: ClassName=PowerBoard Member=Q15
+Removed Member From Class: ClassName=PowerBoard Member=Q16
+Removed Member From Class: ClassName=PowerBoard Member=Q17
+Removed Member From Class: ClassName=PowerBoard Member=Q18
+Removed Member From Class: ClassName=PowerBoard Member=Q19
+Removed Member From Class: ClassName=PowerBoard Member=Q20
+Removed Member From Class: ClassName=PowerBoard Member=Q21
+Removed Member From Class: ClassName=PowerBoard Member=Q22
+Removed Member From Class: ClassName=PowerBoard Member=Q23
+Removed Member From Class: ClassName=PowerBoard Member=Q24
+Removed Member From Class: ClassName=PowerBoard Member=R2
+Removed Member From Class: ClassName=PowerBoard Member=R3
+Removed Member From Class: ClassName=PowerBoard Member=R6
+Removed Member From Class: ClassName=PowerBoard Member=R11
+Removed Member From Class: ClassName=PowerBoard Member=R14
+Removed Member From Class: ClassName=PowerBoard Member=R54
+Removed Member From Class: ClassName=PowerBoard Member=R56
+Change Component Footprint: Designator=C22 Old Footprint=CAPC3216X178N New Footprint=C0402
+Change Component Footprint: Designator=C23 Old Footprint=CAPC3216X178N New Footprint=C0402
+Change Component Footprint: Designator=C27 Old Footprint=CAPC3216X178N New Footprint=C0402
+Change Component Footprint: Designator=C28 Old Footprint=CAPC3216X178N New Footprint=C0402
+Change Component Footprint: Designator=C29 Old Footprint=CAPC3216X178N New Footprint=C0402
+Change Component Footprint: Designator=C42 Old Footprint=CAPC3216X178N New Footprint=C0402
+Change Component Footprint: Designator=C4 Old Footprint=CAPC3216X178N New Footprint=C0603
+Change Component Footprint: Designator=C5 Old Footprint=CAPC3216X178N New Footprint=C0603
+Change Component Footprint: Designator=C9 Old Footprint=CAPC3216X178N New Footprint=C0603
+Change Component Footprint: Designator=C10 Old Footprint=CAPC3216X178N New Footprint=C0603
+Change Component Footprint: Designator=C11 Old Footprint=CAPC3216X178N New Footprint=C0603
+Change Component Footprint: Designator=C21 Old Footprint=CAPC3216X178N New Footprint=C0603
+Change Component Footprint: Designator=C41 Old Footprint=CAPC3216X178N New Footprint=C0603
+Change Component Footprint: Designator=C3 Old Footprint=CAPC3216X178N New Footprint=CAPPRD250W50D630H1250
+Change Component Footprint: Designator=C43 Old Footprint=CAPC3216X178N New Footprint=CAPPRD500W65D1250H2200
+Change Component Footprint: Designator=C48 Old Footprint=CAPC3216X178N New Footprint=CAPPRD500W65D1250H2200
+Change Component Footprint: Designator=C49 Old Footprint=CAPC3216X178N New Footprint=CAPPRD500W65D1250H2200
+Change Component Footprint: Designator=J2 Old Footprint=COPPER_CON1 New Footprint=64372886
+Change Component Footprint: Designator=R2 Old Footprint=RESC10052X137N New Footprint=R0603
+Change Component Footprint: Designator=R3 Old Footprint=RESC10052X137N New Footprint=R0603
+Change Component Footprint: Designator=R14 Old Footprint=RESC10052X137N New Footprint=R0603
+Change Component Footprint: Designator=R6 Old Footprint=RESC10052X137N New Footprint=R0805
+Change Component Footprint: Designator=R11 Old Footprint=RESC10052X137N New Footprint=R0805
+Change Component Footprint: Designator=R25 Old Footprint=RESC10052X137N New Footprint=R1206
+Change Component Footprint: Designator=R26 Old Footprint=RESC10052X137N New Footprint=R1206
+Change Component Footprint: Designator=R28 Old Footprint=RESC10052X137N New Footprint=R1206
+Change Component Footprint: Designator=R33 Old Footprint=RESC10052X137N New Footprint=R1206
+Change Component Footprint: Designator=R35 Old Footprint=RESC10052X137N New Footprint=R1206
+Change Component Footprint: Designator=R46 Old Footprint=RESC10052X137N New Footprint=R1206
+Change Component Footprint: Designator=R47 Old Footprint=RESC10052X137N New Footprint=R1206
+Change Component Footprint: Designator=R49 Old Footprint=RESC10052X137N New Footprint=R1206
+Change Component Comment : Designator=R2 Old Comment=0.5mR/9W New Comment=1k
+Change Component Comment : Designator=R3 Old Comment=0.5mR/9W New Comment=1k
+Change Component Comment : Designator=R11 Old Comment=0.5mR/9W New Comment=2.2k
+Change Component Comment : Designator=R26 Old Comment=0.5mR/9W New Comment=4.7R
+Change Component Comment : Designator=R28 Old Comment=0.5mR/9W New Comment=4.7R
+Change Component Comment : Designator=R14 Old Comment=0.5mR/9W New Comment=10k
+Change Component Comment : Designator=R25 Old Comment=0.5mR/9W New Comment=20R
+Change Component Comment : Designator=R33 Old Comment=0.5mR/9W New Comment=20R
+Change Component Comment : Designator=R35 Old Comment=0.5mR/9W New Comment=20R
+Change Component Comment : Designator=R46 Old Comment=0.5mR/9W New Comment=20R
+Change Component Comment : Designator=R47 Old Comment=0.5mR/9W New Comment=20R
+Change Component Comment : Designator=R49 Old Comment=0.5mR/9W New Comment=20R
+Change Component Comment : Designator=R6 Old Comment=0.5mR/9W New Comment=39k
+Change Component Comment : Designator=C4 Old Comment=2.2uF 100V New Comment=2.2uF
+Change Component Comment : Designator=C5 Old Comment=2.2uF 100V New Comment=2.2uF
+Change Component Comment : Designator=C9 Old Comment=2.2uF 100V New Comment=2.2uF
+Change Component Comment : Designator=C10 Old Comment=2.2uF 100V New Comment=2.2uF
+Change Component Comment : Designator=C11 Old Comment=2.2uF 100V New Comment=2.2uF
+Change Component Comment : Designator=C21 Old Comment=2.2uF 100V New Comment=4.7uF
+Change Component Comment : Designator=C41 Old Comment=2.2uF 100V New Comment=4.7uF
+Change Component Comment : Designator=C22 Old Comment=2.2uF 100V New Comment=100nF
+Change Component Comment : Designator=C23 Old Comment=2.2uF 100V New Comment=100nF
+Change Component Comment : Designator=C27 Old Comment=2.2uF 100V New Comment=100nF
+Change Component Comment : Designator=C28 Old Comment=2.2uF 100V New Comment=100nF
+Change Component Comment : Designator=C29 Old Comment=2.2uF 100V New Comment=100nF
+Change Component Comment : Designator=C42 Old Comment=2.2uF 100V New Comment=100nF
+Change Component Comment : Designator=C3 Old Comment=2.2uF 100V New Comment=100uF 25V
+Change Component Comment : Designator=C43 Old Comment=2.2uF 100V New Comment=220uF 100V
+Change Component Comment : Designator=C48 Old Comment=2.2uF 100V New Comment=220uF 100V
+Change Component Comment : Designator=C49 Old Comment=2.2uF 100V New Comment=220uF 100V
+Change Component Comment : Designator=J2 Old Comment=74651194R New Comment=6437288-6
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAPC3216X178N"; UniqueID = "\WLCYWVQK" ("\WLCYWVQK")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ESK107M025AE3AA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.25"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "80-ESK107M025AE3AA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100uF 25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAPC3216X178N"; UniqueID = "\KLNNUYCU" ("\KLNNUYCU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61H225ME11J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "81-GRM188R61H225ME1J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAPC3216X178N"; UniqueID = "\WWSVLTJU" ("\WWSVLTJU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61H225ME11J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "81-GRM188R61H225ME1J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CAPC3216X178N"; UniqueID = "\HFUJZFNZ" ("\HFUJZFNZ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61H225ME11J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "81-GRM188R61H225ME1J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "CAPC3216X178N"; UniqueID = "\AJEQCVDH" ("\AJEQCVDH")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61H225ME11J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "81-GRM188R61H225ME1J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "CAPC3216X178N"; UniqueID = "\BMNARWSW" ("\BMNARWSW")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61H225ME11J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "81-GRM188R61H225ME1J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21" ("C21"); Footprint = "CAPC3216X178N"; UniqueID = "\GZCIOWER" ("\GZCIOWER")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61H225ME11J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "81-GRM188R61H225ME1J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22" ("C22"); Footprint = "CAPC3216X178N"; UniqueID = "\FJRIBEBM" ("\FJRIBEBM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23" ("C23"); Footprint = "CAPC3216X178N"; UniqueID = "\QJGKWPQF" ("\QJGKWPQF")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27" ("C27"); Footprint = "CAPC3216X178N"; UniqueID = "\KSHIQQVI" ("\KSHIQQVI")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C28" ("C28"); Footprint = "CAPC3216X178N"; UniqueID = "\GOKQAPTP" ("\GOKQAPTP")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C29" ("C29"); Footprint = "CAPC3216X178N"; UniqueID = "\ICAMENJA" ("\ICAMENJA")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C41" ("C41"); Footprint = "CAPC3216X178N"; UniqueID = "\WOQYBGQY" ("\WOQYBGQY")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61H225ME11J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "81-GRM188R61H225ME1J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C42" ("C42"); Footprint = "CAPC3216X178N"; UniqueID = "\YUHJRVYB" ("\YUHJRVYB")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C43" ("C43"); Footprint = "CAPC3216X178N"; UniqueID = "\ZBYTYILJ" ("\ZBYTYILJ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ECA-2AM221B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Suplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "667-ECA-2AM221B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220uF 100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C48" ("C48"); Footprint = "CAPC3216X178N"; UniqueID = "\KHYKLRND" ("\KHYKLRND")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ECA-2AM221B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Suplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "667-ECA-2AM221B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220uF 100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C49" ("C49"); Footprint = "CAPC3216X178N"; UniqueID = "\PKTWUQST" ("\PKTWUQST")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ECA-2AM221B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Suplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "667-ECA-2AM221B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220uF 100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("J2"); Footprint = "COPPER_CON1"; UniqueID = "\BEZCIWJE" ("\BEZCIWJE")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "6437288-6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "571-6437288-6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vlaue"; Value = "6437288-6"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RESC10052X137N"; UniqueID = "\CMMKESFY" ("\CMMKESFY")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RESC10052X137N"; UniqueID = "\CJKWGVVF" ("\CJKWGVVF")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RESC10052X137N"; UniqueID = "\YJHUXXEE" ("\YJHUXXEE")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RT0805FRE0739KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "603-RT0805FRE0739KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "39k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "RESC10052X137N"; UniqueID = "\ACYLPYMR" ("\ACYLPYMR")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RT0805FRE072K2L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "603-RT0805FRE072K2L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "RESC10052X137N"; UniqueID = "\IFZVCJCX" ("\IFZVCJCX")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25" ("R25"); Footprint = "RESC10052X137N"; UniqueID = "\HCPTCCRY" ("\HCPTCCRY")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC1206FR-0720RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "603-RC1206FR-0720RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26" ("R26"); Footprint = "RESC10052X137N"; UniqueID = "\GGFAHYEV" ("\GGFAHYEV")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC1206FR-074R7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "603-RC1206FR-074R7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R28" ("R28"); Footprint = "RESC10052X137N"; UniqueID = "\NOGUVXJL" ("\NOGUVXJL")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC1206FR-074R7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "603-RC1206FR-074R7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R33" ("R33"); Footprint = "RESC10052X137N"; UniqueID = "\WXAEEOAP" ("\WXAEEOAP")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC1206FR-0720RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "603-RC1206FR-0720RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R35" ("R35"); Footprint = "RESC10052X137N"; UniqueID = "\NMVIVVVF" ("\NMVIVVVF")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC1206FR-0720RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "603-RC1206FR-0720RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R46" ("R46"); Footprint = "RESC10052X137N"; UniqueID = "\BEQJRGYD" ("\BEQJRGYD")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC1206FR-0720RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "603-RC1206FR-0720RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R47" ("R47"); Footprint = "RESC10052X137N"; UniqueID = "\MZMDGVPP" ("\MZMDGVPP")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC1206FR-0720RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "603-RC1206FR-0720RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R49" ("R49"); Footprint = "RESC10052X137N"; UniqueID = "\PTCHPQIR" ("\PTCHPQIR")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC1206FR-0720RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "603-RC1206FR-0720RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20R"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAPPRD250W50D630H1250)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ESK107M025AE3AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "80-ESK107M025AE3AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF 25V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPPRD250W50D630H1250)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ESK107M025AE3AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "80-ESK107M025AE3AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF 25V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61H225ME11J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "81-GRM188R61H225ME1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPPRD500W65D1250H2200)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ECA-2AM221B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Suplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "667-ECA-2AM221B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uF 100V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPPRD500W65D1250H2200)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ECA-2AM221B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Suplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "667-ECA-2AM221B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uF 100V"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAPPRD500W65D1250H2200)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ECA-2AM221B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Suplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "667-ECA-2AM221B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uF 100V"; VariantName = "[No Variations]"
+Added Component: Designator=C13(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C14(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61H225ME11J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "81-GRM188R61H225ME1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Added Component: Designator=C15(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C16(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C17(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C18(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C19(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C20(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61H225ME11J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "81-GRM188R61H225ME1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Added Component: Designator=C24(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61H225ME11J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "81-GRM188R61H225ME1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Added Component: Designator=C25(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C26(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C30(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61H225ME11J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "81-GRM188R61H225ME1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Added Component: Designator=C31(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61H225ME11J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "81-GRM188R61H225ME1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Added Component: Designator=C32(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C33(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C34(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61H225ME11J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "81-GRM188R61H225ME1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Added Component: Designator=C35(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C36(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C37(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C38(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C39(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C40(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61H225ME11J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "81-GRM188R61H225ME1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Added Component: Designator=C44(CAPPRD500W65D1250H2200)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ECA-2AM221B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Suplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "667-ECA-2AM221B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uF 100V"; VariantName = "[No Variations]"
+Added Component: Designator=C45(CAPPRD500W65D1250H2200)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ECA-2AM221B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Suplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "667-ECA-2AM221B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uF 100V"; VariantName = "[No Variations]"
+Added Component: Designator=C46(CAPPRD500W65D1250H2200)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ECA-2AM221B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Suplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "667-ECA-2AM221B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uF 100V"; VariantName = "[No Variations]"
+Added Component: Designator=C47(CAPPRD500W65D1250H2200)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ECA-2AM221B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Suplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "667-ECA-2AM221B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uF 100V"; VariantName = "[No Variations]"
+Added Component: Designator=C61(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61H225ME11J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "81-GRM188R61H225ME1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Added Component: Designator=C62(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61H225ME11J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "81-GRM188R61H225ME1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Added Component: Designator=C63(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C64(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C65(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C66(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C67(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX79BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C68(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX79BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C69(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX79BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C70(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX79BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C71(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61H225ME11J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "81-GRM188R61H225ME1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Added Component: Designator=C72(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX79BB222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2nF"; VariantName = "[No Variations]"
+Added Component: Designator=C74(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C75(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C76(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C77(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX79BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C78(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61H225ME11J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "81-GRM188R61H225ME1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Added Component: Designator=C79(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61H225ME11J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "81-GRM188R61H225ME1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Added Component: Designator=C81(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61H225ME11J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "81-GRM188R61H225ME1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Added Component: Designator=C82(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61H225ME11J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "81-GRM188R61H225ME1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Added Component: Designator=C84(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61H225ME11J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "81-GRM188R61H225ME1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Added Component: Designator=C85(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61H225ME11J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "81-GRM188R61H225ME1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Added Component: Designator=C86(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61H225ME11J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "81-GRM188R61H225ME1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Added Component: Designator=C87(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX79BB150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15pF"; VariantName = "[No Variations]"
+Added Component: Designator=C88(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61H225ME11J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "81-GRM188R61H225ME1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Added Component: Designator=C89(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61H225ME11J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "81-GRM188R61H225ME1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Added Component: Designator=C90(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61H225ME11J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "81-GRM188R61H225ME1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Added Component: Designator=C91(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61H225ME11J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "81-GRM188R61H225ME1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Added Component: Designator=C92(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C93(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX79BB150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15pF"; VariantName = "[No Variations]"
+Added Component: Designator=C94(C0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CS0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-CS0603KRX79BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(DIOM4325X250N)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SS115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "821-SS115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1A, 150V"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SOD123)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B140HW-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.42"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "621-B140HW-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "B140HW-7"; VariantName = "[No Variations]"
+Added Component: Designator=D3(SOD123)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B140HW-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.42"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "621-B140HW-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "B140HW-7"; VariantName = "[No Variations]"
+Added Component: Designator=D4(DIOM4325X250N)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SS115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "821-SS115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1A, 150V"; VariantName = "[No Variations]"
+Added Component: Designator=D5(SOD123)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B140HW-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.42"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "621-B140HW-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "B140HW-7"; VariantName = "[No Variations]"
+Added Component: Designator=D6(SOD123)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B140HW-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.42"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "621-B140HW-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "B140HW-7"; VariantName = "[No Variations]"
+Added Component: Designator=D7(DIOM4325X250N)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SS115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "821-SS115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1A, 150V"; VariantName = "[No Variations]"
+Added Component: Designator=D8(SOD123)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B140HW-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.42"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "621-B140HW-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "B140HW-7"; VariantName = "[No Variations]"
+Added Component: Designator=D9(SOD123)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B140HW-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.42"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "621-B140HW-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "B140HW-7"; VariantName = "[No Variations]"
+Added Component: Designator=D10(VCDG1113F4BY3CTR)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stanley Electric"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FKR1113F-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.78"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "327-FKR1113FTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Red"; VariantName = "[No Variations]"
+Added Component: Designator=D11(VCDG1113F4BY3CTR)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stanley Electric"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "VCDG1113F-4BY3C-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.78"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "327-VCDG1113F4BY3CTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Green"; VariantName = "[No Variations]"
+Added Component: Designator=D12(VCDG1113F4BY3CTR)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stanley Electric"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FKY1113F-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.78"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "327-FKY1113FTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Yellow"; VariantName = "[No Variations]"
+Added Component: Designator=FL(BLM18EG121SH1D)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BLM18AG102SN1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "81-BLM11A102S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "BLM18AG102SN1D"; VariantName = "[No Variations]"
+Added Component: Designator=J10(61300511021)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61300511021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "710-61300511021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "61300511021"; VariantName = "[No Variations]"
+Added Component: Designator=J15(61300621121)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61300621121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.57"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "710-61300621121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "61300621121"; VariantName = "[No Variations]"
+Added Component: Designator=J16(61300621121)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61300621121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.57"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "710-61300621121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "61300621121"; VariantName = "[No Variations]"
+Added Component: Designator=J17(61300621121)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61300621121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.57"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "710-61300621121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "61300621121"; VariantName = "[No Variations]"
+Added Component: Designator=J24(61300621121)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61300621121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.57"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "710-61300621121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "61300621121"; VariantName = "[No Variations]"
+Added Component: Designator=J25(61300621121)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61300621121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.57"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "710-61300621121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "61300621121"; VariantName = "[No Variations]"
+Added Component: Designator=L1(INDPM7973X540N)
+Add component (AddParameter): Name = "Geometry.Height"; Value = "5.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SRP7050WA-680M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.46"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "652-SRP7050WA-680M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "68uH"; VariantName = "[No Variations]"
+Added Component: Designator=L2(INDPM7973X540N)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SRP7050WA-220M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.46"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "652-SRP7050WA-220M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uH"; VariantName = "[No Variations]"
+Added Component: Designator=L3(INDPM7973X540N)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SRP7050WA-220M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.46"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "652-SRP7050WA-220M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uH"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RT0805FRE0739KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RT0805FRE0739KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "39k"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RT0805FRE0739KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RT0805FRE0739KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "39k"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RT0805FRE0739KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RT0805FRE0739KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "39k"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RT0805FRE072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RT0805FRE072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R9(R0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RT0805FRE072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RT0805FRE072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RT0805FRE072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RT0805FRE072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R13(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R15(R1206)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC1206FR-072R2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC1206FR-072R2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2R"; VariantName = "[No Variations]"
+Added Component: Designator=R16(R1206)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC1206FR-074R7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC1206FR-074R7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7R"; VariantName = "[No Variations]"
+Added Component: Designator=R17(R1206)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC1206FR-0720RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC1206FR-0720RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20R"; VariantName = "[No Variations]"
+Added Component: Designator=R18(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R19(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R20(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R21(R1206)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC1206FR-0720RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC1206FR-0720RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20R"; VariantName = "[No Variations]"
+Added Component: Designator=R22(R1206)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC1206FR-0720RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC1206FR-0720RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20R"; VariantName = "[No Variations]"
+Added Component: Designator=R23(R1206)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC1206FR-0720RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC1206FR-0720RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20R"; VariantName = "[No Variations]"
+Added Component: Designator=R24(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R27(R1206)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC1206FR-072R2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC1206FR-072R2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2R"; VariantName = "[No Variations]"
+Added Component: Designator=R29(R1206)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC1206FR-0720RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC1206FR-0720RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20R"; VariantName = "[No Variations]"
+Added Component: Designator=R30(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R31(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R32(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R34(R1206)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC1206FR-0720RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC1206FR-0720RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20R"; VariantName = "[No Variations]"
+Added Component: Designator=R36(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R37(R1206)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC1206FR-0720RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC1206FR-0720RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20R"; VariantName = "[No Variations]"
+Added Component: Designator=R38(R1206)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC1206FR-074R7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC1206FR-074R7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7R"; VariantName = "[No Variations]"
+Added Component: Designator=R39(R1206)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC1206FR-072R2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC1206FR-072R2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2R"; VariantName = "[No Variations]"
+Added Component: Designator=R40(R1206)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC1206FR-074R7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC1206FR-074R7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7R"; VariantName = "[No Variations]"
+Added Component: Designator=R41(R1206)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC1206FR-0720RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC1206FR-0720RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20R"; VariantName = "[No Variations]"
+Added Component: Designator=R42(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R43(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R44(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R45(R1206)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC1206FR-0720RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC1206FR-0720RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20R"; VariantName = "[No Variations]"
+Added Component: Designator=R48(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R50(R1206)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC1206FR-074R7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC1206FR-074R7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7R"; VariantName = "[No Variations]"
+Added Component: Designator=R66(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0752K3L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-0752K3L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "52.3k"; VariantName = "[No Variations]"
+Added Component: Designator=R67(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R68(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0733KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-0733KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33k"; VariantName = "[No Variations]"
+Added Component: Designator=R69(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R70(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-07448KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-07448KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "448k"; VariantName = "[No Variations]"
+Added Component: Designator=R71(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R72(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0749K9L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-0749K9L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49.9k"; VariantName = "[No Variations]"
+Added Component: Designator=R73(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R74(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R75(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R76(R1206)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC1206FR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC1206FR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R77(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R78(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0722RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-0722RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R79(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0722RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-0722RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R80(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R81(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R82(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R83(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "603-RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "INA240A2QDRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "3.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "595-INA240A2QDRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "INA240A2QDRQ1"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "INA240A2QDRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "3.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "595-INA240A2QDRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "INA240A2QDRQ1"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "INA240A2QDRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "3.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "595-INA240A2QDRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "INA240A2QDRQ1"; VariantName = "[No Variations]"
+Added Component: Designator=U4(SOIC127P1030X265-16N)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "UCC21520ADW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "7.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "595-UCC21520ADW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "UCC21520ADW"; VariantName = "[No Variations]"
+Added Component: Designator=U5(SOIC127P1030X265-16N)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "UCC21520ADW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "7.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "595-UCC21520ADW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "UCC21520ADW"; VariantName = "[No Variations]"
+Added Component: Designator=U6(SOIC127P1030X265-16N)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "UCC21520ADW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "7.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "595-UCC21520ADW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "UCC21520ADW"; VariantName = "[No Variations]"
+Added Component: Designator=U7(SOIC-8(EPAD))
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LM5164DDAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "3.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "595-LM5164DDAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.7mm"; VariantName = "[No Variations]"
+Added Component: Designator=U8(MSOP-8)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MCP16311T-E/MNY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "579-MCP16311T-E/MNY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MCP16311T-E/MNY"; VariantName = "[No Variations]"
+Added Component: Designator=U9(MSOP-8)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MCP16311T-E/MNY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "579-MCP16311T-E/MNY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MCP16311T-E/MNY"; VariantName = "[No Variations]"
+Added Component: Designator=U10(QFP50P1200X1200X160-64N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/DM00037051.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32F405RGT6TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-STM32F405RGT6TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32F405RGT6TR?qs=MavH1QghrkHshpR6GkvPIg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U11(SOT95P280X145-6N)
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "USBLC6-2SC6Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "511-USBLC6-2SC6Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "USBLC6-2SC6Y"; VariantName = "[No Variations]"
+Added Component: Designator=U12(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TJA1051T/3/CM,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "771-TJA1051T/3CM118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TJA1051T/3/CM,118"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(XTAL_FL0800026Q)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FL0800026Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "621-FL0800026Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "8MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN+ Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=+3V3 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=+3V3 Pin=C4-2
+Added Pin To Net: NetName=+3V3 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=+3V3 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=TEMP_U Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=TEMP_V Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=TEMP_W Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=PHASE_U Pin=C13-1
+Added Pin To Net: NetName=PHASE_U Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=+3V3 Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=+3V3 Pin=C20-2
+Added Pin To Net: NetName=PHASE_V Pin=C23-1
+Added Pin To Net: NetName=PHASE_V Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=+3V3 Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=+3V3 Pin=C30-2
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=VIN+ Pin=C31-2
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=VIN+ Pin=C32-2
+Added Pin To Net: NetName=PHASE_W Pin=C33-1
+Added Pin To Net: NetName=PHASE_W Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=GND Pin=C36-2
+Added Pin To Net: NetName=GND Pin=C37-2
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=+3V3 Pin=C39-2
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=+3V3 Pin=C40-2
+Added Pin To Net: NetName=GND Pin=C43-2
+Added Pin To Net: NetName=GND Pin=C44-2
+Added Pin To Net: NetName=GND Pin=C45-2
+Added Pin To Net: NetName=GND Pin=C46-2
+Added Pin To Net: NetName=GND Pin=C47-2
+Added Pin To Net: NetName=GND Pin=C61-1
+Added Pin To Net: NetName=GND Pin=C62-1
+Added Pin To Net: NetName=GND Pin=C63-1
+Added Pin To Net: NetName=GND Pin=C64-1
+Added Pin To Net: NetName=GND Pin=C65-1
+Added Pin To Net: NetName=GND Pin=C66-1
+Added Pin To Net: NetName=GND Pin=C67-1
+Added Pin To Net: NetName=GND Pin=C68-1
+Added Pin To Net: NetName=GND Pin=C69-1
+Added Pin To Net: NetName=GND Pin=C70-1
+Added Pin To Net: NetName=GND Pin=C71-1
+Added Pin To Net: NetName=GND Pin=C76-1
+Added Pin To Net: NetName=GND Pin=C77-1
+Added Pin To Net: NetName=GND Pin=C78-1
+Added Pin To Net: NetName=GND Pin=C79-1
+Added Pin To Net: NetName=GND Pin=C81-1
+Added Pin To Net: NetName=VIN+ Pin=C81-2
+Added Pin To Net: NetName=GND Pin=C82-1
+Added Pin To Net: NetName=+3V3 Pin=C82-2
+Added Pin To Net: NetName=GND Pin=C84-1
+Added Pin To Net: NetName=VIN+ Pin=C84-2
+Added Pin To Net: NetName=GND Pin=C85-1
+Added Pin To Net: NetName=GND Pin=C86-1
+Added Pin To Net: NetName=GND Pin=C87-1
+Added Pin To Net: NetName=GND Pin=C88-1
+Added Pin To Net: NetName=GND Pin=C89-1
+Added Pin To Net: NetName=GND Pin=C90-1
+Added Pin To Net: NetName=GND Pin=C91-1
+Added Pin To Net: NetName=GND Pin=C92-1
+Added Pin To Net: NetName=GND Pin=C93-2
+Added Pin To Net: NetName=GND Pin=C94-1
+Added Pin To Net: NetName=GND Pin=D10-1
+Added Pin To Net: NetName=GND Pin=D11-1
+Added Pin To Net: NetName=GND Pin=D12-1
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-8
+Added Pin To Net: NetName=+3V3 Pin=J2-11
+Added Pin To Net: NetName=GND Pin=J2-12
+Added Pin To Net: NetName=VIN+ Pin=J2-24
+Added Pin To Net: NetName=GND Pin=J10-3
+Added Pin To Net: NetName=TEMP_U Pin=J15-3
+Added Pin To Net: NetName=+3V3 Pin=J15-4
+Added Pin To Net: NetName=PHASE_U Pin=J15-5
+Added Pin To Net: NetName=OUT_U Pin=J15-6
+Added Pin To Net: NetName=TEMP_V Pin=J16-3
+Added Pin To Net: NetName=+3V3 Pin=J16-4
+Added Pin To Net: NetName=PHASE_V Pin=J16-5
+Added Pin To Net: NetName=OUT_V Pin=J16-6
+Added Pin To Net: NetName=TEMP_W Pin=J17-3
+Added Pin To Net: NetName=+3V3 Pin=J17-4
+Added Pin To Net: NetName=PHASE_W Pin=J17-5
+Added Pin To Net: NetName=OUT_W Pin=J17-6
+Added Pin To Net: NetName=GND Pin=J25-1
+Added Pin To Net: NetName=GND Pin=J25-2
+Added Pin To Net: NetName=GND Pin=J25-3
+Added Pin To Net: NetName=GND Pin=J25-4
+Added Pin To Net: NetName=GND Pin=J25-5
+Added Pin To Net: NetName=GND Pin=J25-6
+Added Pin To Net: NetName=VIN+ Pin=L1-2
+Added Pin To Net: NetName=+3V3 Pin=L3-2
+Added Pin To Net: NetName=PHASE_U Pin=R4-2
+Added Pin To Net: NetName=PHASE_V Pin=R5-2
+Added Pin To Net: NetName=PHASE_W Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=TEMP_U Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=TEMP_V Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=TEMP_W Pin=R14-2
+Added Pin To Net: NetName=VIN+ Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R18-2
+Added Pin To Net: NetName=GND Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R20-2
+Added Pin To Net: NetName=PWM_U_HIGH Pin=R21-1
+Added Pin To Net: NetName=PWM_U_LOW Pin=R22-1
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=VIN+ Pin=R27-1
+Added Pin To Net: NetName=GND Pin=R30-2
+Added Pin To Net: NetName=GND Pin=R31-2
+Added Pin To Net: NetName=GND Pin=R32-2
+Added Pin To Net: NetName=PWM_V_HIGH Pin=R33-1
+Added Pin To Net: NetName=PWM_V_LOW Pin=R34-1
+Added Pin To Net: NetName=GND Pin=R36-1
+Added Pin To Net: NetName=VIN+ Pin=R39-1
+Added Pin To Net: NetName=GND Pin=R42-2
+Added Pin To Net: NetName=GND Pin=R43-2
+Added Pin To Net: NetName=GND Pin=R44-2
+Added Pin To Net: NetName=PWM_W_HIGH Pin=R45-1
+Added Pin To Net: NetName=PWM_W_LOW Pin=R46-1
+Added Pin To Net: NetName=GND Pin=R48-1
+Added Pin To Net: NetName=GND Pin=R67-2
+Added Pin To Net: NetName=+3V3 Pin=R68-1
+Added Pin To Net: NetName=GND Pin=R69-2
+Added Pin To Net: NetName=VIN+ Pin=R70-2
+Added Pin To Net: NetName=GND Pin=R71-1
+Added Pin To Net: NetName=GND Pin=R72-1
+Added Pin To Net: NetName=+3V3 Pin=R75-2
+Added Pin To Net: NetName=OUT_U Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=+3V3 Pin=U1-3
+Added Pin To Net: NetName=+3V3 Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=PHASE_U Pin=U1-8
+Added Pin To Net: NetName=OUT_V Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=+3V3 Pin=U2-3
+Added Pin To Net: NetName=+3V3 Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=PHASE_V Pin=U2-8
+Added Pin To Net: NetName=OUT_W Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=+3V3 Pin=U3-3
+Added Pin To Net: NetName=+3V3 Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U3-7
+Added Pin To Net: NetName=PHASE_W Pin=U3-8
+Added Pin To Net: NetName=+3V3 Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=+3V3 Pin=U4-8
+Added Pin To Net: NetName=GND Pin=U4-9
+Added Pin To Net: NetName=VIN+ Pin=U4-11
+Added Pin To Net: NetName=PHASE_U Pin=U4-14
+Added Pin To Net: NetName=+3V3 Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Pin To Net: NetName=+3V3 Pin=U5-8
+Added Pin To Net: NetName=GND Pin=U5-9
+Added Pin To Net: NetName=VIN+ Pin=U5-11
+Added Pin To Net: NetName=PHASE_V Pin=U5-14
+Added Pin To Net: NetName=+3V3 Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U6-4
+Added Pin To Net: NetName=+3V3 Pin=U6-8
+Added Pin To Net: NetName=GND Pin=U6-9
+Added Pin To Net: NetName=VIN+ Pin=U6-11
+Added Pin To Net: NetName=PHASE_W Pin=U6-14
+Added Pin To Net: NetName=GND Pin=U7-1
+Added Pin To Net: NetName=GND Pin=U7-9
+Added Pin To Net: NetName=VIN+ Pin=U8-3
+Added Pin To Net: NetName=VIN+ Pin=U8-4
+Added Pin To Net: NetName=GND Pin=U8-5
+Added Pin To Net: NetName=GND Pin=U8-8
+Added Pin To Net: NetName=GND Pin=U8-9
+Added Pin To Net: NetName=VIN+ Pin=U9-3
+Added Pin To Net: NetName=VIN+ Pin=U9-4
+Added Pin To Net: NetName=GND Pin=U9-5
+Added Pin To Net: NetName=GND Pin=U9-8
+Added Pin To Net: NetName=GND Pin=U9-9
+Added Pin To Net: NetName=GND Pin=U10-13
+Added Pin To Net: NetName=TEMP_U Pin=U10-17
+Added Pin To Net: NetName=GND Pin=U10-18
+Added Pin To Net: NetName=TEMP_V Pin=U10-26
+Added Pin To Net: NetName=TEMP_W Pin=U10-27
+Added Pin To Net: NetName=PWM_U_LOW Pin=U10-34
+Added Pin To Net: NetName=PWM_V_LOW Pin=U10-35
+Added Pin To Net: NetName=PWM_W_LOW Pin=U10-36
+Added Pin To Net: NetName=PWM_U_HIGH Pin=U10-41
+Added Pin To Net: NetName=PWM_V_HIGH Pin=U10-42
+Added Pin To Net: NetName=PWM_W_HIGH Pin=U10-43
+Added Pin To Net: NetName=GND Pin=U10-60
+Added Pin To Net: NetName=GND Pin=U10-63
+Added Pin To Net: NetName=GND Pin=U11-2
+Added Pin To Net: NetName=GND Pin=U12-2
+Added Pin To Net: NetName=+3V3 Pin=U12-5
+Added Pin To Net: NetName=GND Pin=U12-8
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=GND Pin=Y1-4
+Change Net Name : Old Net Name=VIN+ New Net Name=+12V
+Added Pin To Net: NetName=+3.3V Pin=C61-2
+Added Pin To Net: NetName=+3.3V Pin=C62-2
+Added Pin To Net: NetName=+3.3V Pin=C63-2
+Added Pin To Net: NetName=+3.3V Pin=C64-2
+Added Pin To Net: NetName=+3.3V Pin=C65-2
+Added Pin To Net: NetName=+3.3V Pin=C66-2
+Added Pin To Net: NetName=+3.3V Pin=C67-2
+Added Pin To Net: NetName=+3.3V Pin=C68-2
+Added Pin To Net: NetName=+3.3V Pin=C69-2
+Added Pin To Net: NetName=+3.3V Pin=C70-2
+Added Pin To Net: NetName=+3.3V Pin=FL-1
+Added Pin To Net: NetName=+3.3V Pin=J10-1
+Added Pin To Net: NetName=+3.3V Pin=R77-2
+Added Pin To Net: NetName=+3.3V Pin=R80-2
+Added Pin To Net: NetName=+3.3V Pin=R81-2
+Added Pin To Net: NetName=+3.3V Pin=R82-2
+Added Pin To Net: NetName=+3.3V Pin=U10-1
+Added Pin To Net: NetName=+3.3V Pin=U10-19
+Added Pin To Net: NetName=+3.3V Pin=U10-32
+Added Pin To Net: NetName=+3.3V Pin=U10-48
+Added Pin To Net: NetName=+3.3V Pin=U10-64
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=+5V Pin=C2-1
+Added Pin To Net: NetName=+5V Pin=C79-2
+Added Pin To Net: NetName=+5V Pin=C88-2
+Added Pin To Net: NetName=+5V Pin=C89-2
+Added Pin To Net: NetName=+5V Pin=J2-1
+Added Pin To Net: NetName=+5V Pin=J2-7
+Added Pin To Net: NetName=+5V Pin=J2-19
+Added Pin To Net: NetName=+5V Pin=L2-2
+Added Pin To Net: NetName=+5V Pin=R66-1
+Added Pin To Net: NetName=+5V Pin=R76-2
+Added Pin To Net: NetName=+5V Pin=U12-3
+Added Net: Name=+5V
+Added Pin To Net: NetName=+VIN Pin=C71-2
+Added Pin To Net: NetName=+VIN Pin=U7-2
+Added Pin To Net: NetName=+VIN Pin=U7-3
+Added Net: Name=+VIN
+Added Pin To Net: NetName=ADC Pin=J2-20
+Added Pin To Net: NetName=ADC Pin=U10-25
+Added Net: Name=ADC
+Added Pin To Net: NetName=CAN_RX Pin=U10-61
+Added Net: Name=CAN_RX
+Added Pin To Net: NetName=CAN_TR Pin=U12-4
+Added Net: Name=CAN_TR
+Added Pin To Net: NetName=CAN_TX Pin=U10-62
+Added Pin To Net: NetName=CAN_TX Pin=U12-1
+Added Net: Name=CAN_TX
+Added Pin To Net: NetName=CANH Pin=J2-14
+Added Pin To Net: NetName=CANH Pin=U12-7
+Added Net: Name=CANH
+Added Pin To Net: NetName=CANL Pin=J2-13
+Added Pin To Net: NetName=CANL Pin=U12-6
+Added Net: Name=CANL
+Added Pin To Net: NetName=DISABLE Pin=R23-1
+Added Pin To Net: NetName=DISABLE Pin=R35-1
+Added Pin To Net: NetName=DISABLE Pin=R47-1
+Added Pin To Net: NetName=DISABLE Pin=U10-28
+Added Net: Name=DISABLE
+Added Pin To Net: NetName=DM Pin=J2-9
+Added Pin To Net: NetName=DM Pin=U11-4
+Added Net: Name=DM
+Added Pin To Net: NetName=DP Pin=J2-10
+Added Pin To Net: NetName=DP Pin=U11-6
+Added Net: Name=DP
+Added Pin To Net: NetName=ENCO_COS Pin=J2-3
+Added Net: Name=ENCO_COS
+Added Pin To Net: NetName=ENCO_SIN Pin=J2-2
+Added Net: Name=ENCO_SIN
+Added Pin To Net: NetName=HALL_U Pin=J2-16
+Added Pin To Net: NetName=HALL_U Pin=R80-1
+Added Pin To Net: NetName=HALL_U Pin=U10-37
+Added Net: Name=HALL_U
+Added Pin To Net: NetName=HALL_V Pin=J2-17
+Added Pin To Net: NetName=HALL_V Pin=R81-1
+Added Pin To Net: NetName=HALL_V Pin=U10-38
+Added Net: Name=HALL_V
+Added Pin To Net: NetName=HALL_W Pin=J2-18
+Added Pin To Net: NetName=HALL_W Pin=R82-1
+Added Pin To Net: NetName=HALL_W Pin=U10-39
+Added Net: Name=HALL_W
+Added Pin To Net: NetName=ISENSE_U Pin=R1-2
+Added Pin To Net: NetName=ISENSE_U Pin=U10-8
+Added Net: Name=ISENSE_U
+Added Pin To Net: NetName=ISENSE_V Pin=R2-2
+Added Pin To Net: NetName=ISENSE_V Pin=U10-9
+Added Net: Name=ISENSE_V
+Added Pin To Net: NetName=ISENSE_W Pin=R3-2
+Added Pin To Net: NetName=ISENSE_W Pin=U10-10
+Added Net: Name=ISENSE_W
+Added Pin To Net: NetName=LED_GREEN Pin=R74-2
+Added Pin To Net: NetName=LED_GREEN Pin=U10-57
+Added Net: Name=LED_GREEN
+Added Pin To Net: NetName=LED_RED Pin=R73-2
+Added Pin To Net: NetName=LED_RED Pin=U10-59
+Added Net: Name=LED_RED
+Added Pin To Net: NetName=MISO_ADC_EXT2 Pin=U10-22
+Added Net: Name=MISO_ADC_EXT2
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=C14-2
+Added Pin To Net: NetName=NetC13_2 Pin=D1-C
+Added Pin To Net: NetName=NetC13_2 Pin=U4-16
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=NetC15_1 Pin=R18-1
+Added Pin To Net: NetName=NetC15_1 Pin=R23-2
+Added Pin To Net: NetName=NetC15_1 Pin=U4-5
+Added Net: Name=NetC15_1
+Added Pin To Net: NetName=NetC16_1 Pin=C16-1
+Added Pin To Net: NetName=NetC16_1 Pin=R19-1
+Added Pin To Net: NetName=NetC16_1 Pin=R22-2
+Added Pin To Net: NetName=NetC16_1 Pin=U4-2
+Added Net: Name=NetC16_1
+Added Pin To Net: NetName=NetC17_1 Pin=C17-1
+Added Pin To Net: NetName=NetC17_1 Pin=R20-1
+Added Pin To Net: NetName=NetC17_1 Pin=R21-2
+Added Pin To Net: NetName=NetC17_1 Pin=U4-1
+Added Net: Name=NetC17_1
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Pin To Net: NetName=NetC18_2 Pin=R24-2
+Added Pin To Net: NetName=NetC18_2 Pin=U4-6
+Added Net: Name=NetC18_2
+Added Pin To Net: NetName=NetC23_2 Pin=C23-2
+Added Pin To Net: NetName=NetC23_2 Pin=C24-2
+Added Pin To Net: NetName=NetC23_2 Pin=D4-C
+Added Pin To Net: NetName=NetC23_2 Pin=U5-16
+Added Net: Name=NetC23_2
+Added Pin To Net: NetName=NetC25_1 Pin=C25-1
+Added Pin To Net: NetName=NetC25_1 Pin=R30-1
+Added Pin To Net: NetName=NetC25_1 Pin=R35-2
+Added Pin To Net: NetName=NetC25_1 Pin=U5-5
+Added Net: Name=NetC25_1
+Added Pin To Net: NetName=NetC26_1 Pin=C26-1
+Added Pin To Net: NetName=NetC26_1 Pin=R31-1
+Added Pin To Net: NetName=NetC26_1 Pin=R34-2
+Added Pin To Net: NetName=NetC26_1 Pin=U5-2
+Added Net: Name=NetC26_1
+Added Pin To Net: NetName=NetC27_1 Pin=C27-1
+Added Pin To Net: NetName=NetC27_1 Pin=R32-1
+Added Pin To Net: NetName=NetC27_1 Pin=R33-2
+Added Pin To Net: NetName=NetC27_1 Pin=U5-1
+Added Net: Name=NetC27_1
+Added Pin To Net: NetName=NetC28_2 Pin=C28-2
+Added Pin To Net: NetName=NetC28_2 Pin=R36-2
+Added Pin To Net: NetName=NetC28_2 Pin=U5-6
+Added Net: Name=NetC28_2
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=C34-2
+Added Pin To Net: NetName=NetC33_2 Pin=D7-C
+Added Pin To Net: NetName=NetC33_2 Pin=U6-16
+Added Net: Name=NetC33_2
+Added Pin To Net: NetName=NetC35_1 Pin=C35-1
+Added Pin To Net: NetName=NetC35_1 Pin=R42-1
+Added Pin To Net: NetName=NetC35_1 Pin=R47-2
+Added Pin To Net: NetName=NetC35_1 Pin=U6-5
+Added Net: Name=NetC35_1
+Added Pin To Net: NetName=NetC36_1 Pin=C36-1
+Added Pin To Net: NetName=NetC36_1 Pin=R43-1
+Added Pin To Net: NetName=NetC36_1 Pin=R46-2
+Added Pin To Net: NetName=NetC36_1 Pin=U6-2
+Added Net: Name=NetC36_1
+Added Pin To Net: NetName=NetC37_1 Pin=C37-1
+Added Pin To Net: NetName=NetC37_1 Pin=R44-1
+Added Pin To Net: NetName=NetC37_1 Pin=R45-2
+Added Pin To Net: NetName=NetC37_1 Pin=U6-1
+Added Net: Name=NetC37_1
+Added Pin To Net: NetName=NetC38_2 Pin=C38-2
+Added Pin To Net: NetName=NetC38_2 Pin=R48-2
+Added Pin To Net: NetName=NetC38_2 Pin=U6-6
+Added Net: Name=NetC38_2
+Added Pin To Net: NetName=NetC72_1 Pin=C72-1
+Added Pin To Net: NetName=NetC72_1 Pin=U7-7
+Added Net: Name=NetC72_1
+Added Pin To Net: NetName=NetC72_2 Pin=C72-2
+Added Pin To Net: NetName=NetC72_2 Pin=L1-1
+Added Pin To Net: NetName=NetC72_2 Pin=U7-8
+Added Net: Name=NetC72_2
+Added Pin To Net: NetName=NetC74_1 Pin=C74-1
+Added Pin To Net: NetName=NetC74_1 Pin=L2-1
+Added Pin To Net: NetName=NetC74_1 Pin=U8-6
+Added Net: Name=NetC74_1
+Added Pin To Net: NetName=NetC74_2 Pin=C74-2
+Added Pin To Net: NetName=NetC74_2 Pin=U8-7
+Added Net: Name=NetC74_2
+Added Pin To Net: NetName=NetC75_1 Pin=C75-1
+Added Pin To Net: NetName=NetC75_1 Pin=L3-1
+Added Pin To Net: NetName=NetC75_1 Pin=U9-6
+Added Net: Name=NetC75_1
+Added Pin To Net: NetName=NetC75_2 Pin=C75-2
+Added Pin To Net: NetName=NetC75_2 Pin=U9-7
+Added Net: Name=NetC75_2
+Added Pin To Net: NetName=NetC85_2 Pin=C85-2
+Added Pin To Net: NetName=NetC85_2 Pin=U8-2
+Added Net: Name=NetC85_2
+Added Pin To Net: NetName=NetC86_2 Pin=C86-2
+Added Pin To Net: NetName=NetC86_2 Pin=U9-2
+Added Net: Name=NetC86_2
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=R15-2
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=NetD2_A Pin=R16-1
+Added Net: Name=NetD2_A
+Added Pin To Net: NetName=NetD2_C Pin=D2-C
+Added Pin To Net: NetName=NetD2_C Pin=R17-1
+Added Pin To Net: NetName=NetD2_C Pin=U4-15
+Added Net: Name=NetD2_C
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=NetD3_A Pin=R26-2
+Added Net: Name=NetD3_A
+Added Pin To Net: NetName=NetD3_C Pin=D3-C
+Added Pin To Net: NetName=NetD3_C Pin=R25-2
+Added Pin To Net: NetName=NetD3_C Pin=U4-10
+Added Net: Name=NetD3_C
+Added Pin To Net: NetName=NetD4_A Pin=D4-A
+Added Pin To Net: NetName=NetD4_A Pin=R27-2
+Added Net: Name=NetD4_A
+Added Pin To Net: NetName=NetD5_A Pin=D5-A
+Added Pin To Net: NetName=NetD5_A Pin=R28-1
+Added Net: Name=NetD5_A
+Added Pin To Net: NetName=NetD5_C Pin=D5-C
+Added Pin To Net: NetName=NetD5_C Pin=R29-1
+Added Pin To Net: NetName=NetD5_C Pin=U5-15
+Added Net: Name=NetD5_C
+Added Pin To Net: NetName=NetD6_A Pin=D6-A
+Added Pin To Net: NetName=NetD6_A Pin=R38-2
+Added Net: Name=NetD6_A
+Added Pin To Net: NetName=NetD6_C Pin=D6-C
+Added Pin To Net: NetName=NetD6_C Pin=R37-2
+Added Pin To Net: NetName=NetD6_C Pin=U5-10
+Added Net: Name=NetD6_C
+Added Pin To Net: NetName=NetD7_A Pin=D7-A
+Added Pin To Net: NetName=NetD7_A Pin=R39-2
+Added Net: Name=NetD7_A
+Added Pin To Net: NetName=NetD8_A Pin=D8-A
+Added Pin To Net: NetName=NetD8_A Pin=R40-1
+Added Net: Name=NetD8_A
+Added Pin To Net: NetName=NetD8_C Pin=D8-C
+Added Pin To Net: NetName=NetD8_C Pin=R41-1
+Added Pin To Net: NetName=NetD8_C Pin=U6-15
+Added Net: Name=NetD8_C
+Added Pin To Net: NetName=NetD9_A Pin=D9-A
+Added Pin To Net: NetName=NetD9_A Pin=R50-2
+Added Net: Name=NetD9_A
+Added Pin To Net: NetName=NetD9_C Pin=D9-C
+Added Pin To Net: NetName=NetD9_C Pin=R49-2
+Added Pin To Net: NetName=NetD9_C Pin=U6-10
+Added Net: Name=NetD9_C
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD10_2 Pin=R73-1
+Added Net: Name=NetD10_2
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Pin To Net: NetName=NetD11_2 Pin=R74-1
+Added Net: Name=NetD11_2
+Added Pin To Net: NetName=NetD12_2 Pin=D12-2
+Added Pin To Net: NetName=NetD12_2 Pin=R75-1
+Added Net: Name=NetD12_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-5
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U2-5
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U3-5
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR66_2 Pin=R66-2
+Added Pin To Net: NetName=NetR66_2 Pin=R67-1
+Added Pin To Net: NetName=NetR66_2 Pin=U8-1
+Added Net: Name=NetR66_2
+Added Pin To Net: NetName=NetR68_2 Pin=R68-2
+Added Pin To Net: NetName=NetR68_2 Pin=R69-1
+Added Pin To Net: NetName=NetR68_2 Pin=U9-1
+Added Net: Name=NetR68_2
+Added Pin To Net: NetName=NetR70_1 Pin=R70-1
+Added Pin To Net: NetName=NetR70_1 Pin=R72-2
+Added Pin To Net: NetName=NetR70_1 Pin=U7-5
+Added Net: Name=NetR70_1
+Added Pin To Net: NetName=NetR71_2 Pin=R71-2
+Added Pin To Net: NetName=NetR71_2 Pin=U7-4
+Added Net: Name=NetR71_2
+Added Pin To Net: NetName=NetR76_1 Pin=R76-1
+Added Pin To Net: NetName=NetR76_1 Pin=U11-5
+Added Net: Name=NetR76_1
+Added Pin To Net: NetName=NetR78_2 Pin=R78-2
+Added Pin To Net: NetName=NetR78_2 Pin=U11-1
+Added Net: Name=NetR78_2
+Added Pin To Net: NetName=NetR79_2 Pin=R79-2
+Added Pin To Net: NetName=NetR79_2 Pin=U11-3
+Added Net: Name=NetR79_2
+Added Pin To Net: NetName=NRST Pin=C92-2
+Added Pin To Net: NetName=NRST Pin=J2-23
+Added Pin To Net: NetName=NRST Pin=J10-5
+Added Pin To Net: NetName=NRST Pin=R77-1
+Added Pin To Net: NetName=NRST Pin=U10-7
+Added Net: Name=NRST
+Added Pin To Net: NetName=OSC1 Pin=C87-2
+Added Pin To Net: NetName=OSC1 Pin=U10-5
+Added Pin To Net: NetName=OSC1 Pin=Y1-1
+Added Net: Name=OSC1
+Added Pin To Net: NetName=OSC2 Pin=C93-1
+Added Pin To Net: NetName=OSC2 Pin=U10-6
+Added Pin To Net: NetName=OSC2 Pin=Y1-3
+Added Net: Name=OSC2
+Added Pin To Net: NetName=PWM_U_HIGH1 Pin=J15-2
+Added Pin To Net: NetName=PWM_U_HIGH1 Pin=R16-2
+Added Pin To Net: NetName=PWM_U_HIGH1 Pin=R17-2
+Added Net: Name=PWM_U_HIGH1
+Added Pin To Net: NetName=PWM_U_LOW1 Pin=J15-1
+Added Pin To Net: NetName=PWM_U_LOW1 Pin=R25-1
+Added Pin To Net: NetName=PWM_U_LOW1 Pin=R26-1
+Added Net: Name=PWM_U_LOW1
+Added Pin To Net: NetName=PWM_V_HIGH1 Pin=J16-2
+Added Pin To Net: NetName=PWM_V_HIGH1 Pin=R28-2
+Added Pin To Net: NetName=PWM_V_HIGH1 Pin=R29-2
+Added Net: Name=PWM_V_HIGH1
+Added Pin To Net: NetName=PWM_V_LOW1 Pin=J16-1
+Added Pin To Net: NetName=PWM_V_LOW1 Pin=R37-1
+Added Pin To Net: NetName=PWM_V_LOW1 Pin=R38-1
+Added Net: Name=PWM_V_LOW1
+Added Pin To Net: NetName=PWM_W_HIGH1 Pin=J17-2
+Added Pin To Net: NetName=PWM_W_HIGH1 Pin=R40-2
+Added Pin To Net: NetName=PWM_W_HIGH1 Pin=R41-2
+Added Net: Name=PWM_W_HIGH1
+Added Pin To Net: NetName=PWM_W_LOW1 Pin=J17-1
+Added Pin To Net: NetName=PWM_W_LOW1 Pin=R49-1
+Added Pin To Net: NetName=PWM_W_LOW1 Pin=R50-1
+Added Net: Name=PWM_W_LOW1
+Added Pin To Net: NetName=RC_PWM Pin=J2-22
+Added Pin To Net: NetName=RC_PWM Pin=R83-1
+Added Net: Name=RC_PWM
+Added Pin To Net: NetName=RX_SDA_NSS Pin=J2-6
+Added Pin To Net: NetName=RX_SDA_NSS Pin=U10-20
+Added Pin To Net: NetName=RX_SDA_NSS Pin=U10-30
+Added Net: Name=RX_SDA_NSS
+Added Pin To Net: NetName=SCK_ADC_EXT Pin=U10-21
+Added Net: Name=SCK_ADC_EXT
+Added Pin To Net: NetName=SERVO Pin=C94-2
+Added Pin To Net: NetName=SERVO Pin=R83-2
+Added Pin To Net: NetName=SERVO Pin=U10-58
+Added Net: Name=SERVO
+Added Pin To Net: NetName=SWCLK Pin=J2-25
+Added Pin To Net: NetName=SWCLK Pin=J10-2
+Added Pin To Net: NetName=SWCLK Pin=U10-49
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=J2-26
+Added Pin To Net: NetName=SWDIO Pin=J10-4
+Added Pin To Net: NetName=SWDIO Pin=U10-46
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=TEMP_MOTOR Pin=J2-15
+Added Pin To Net: NetName=TEMP_MOTOR Pin=U10-24
+Added Net: Name=TEMP_MOTOR
+Added Pin To Net: NetName=TX_SCL_MOSI Pin=J2-5
+Added Pin To Net: NetName=TX_SCL_MOSI Pin=U10-23
+Added Pin To Net: NetName=TX_SCL_MOSI Pin=U10-29
+Added Net: Name=TX_SCL_MOSI
+Added Pin To Net: NetName=UART_RX Pin=U10-52
+Added Net: Name=UART_RX
+Added Pin To Net: NetName=UART_TX Pin=U10-51
+Added Net: Name=UART_TX
+Added Pin To Net: NetName=USB_DM Pin=R79-1
+Added Pin To Net: NetName=USB_DM Pin=U10-44
+Added Net: Name=USB_DM
+Added Pin To Net: NetName=USB_DP Pin=R78-1
+Added Pin To Net: NetName=USB_DP Pin=U10-45
+Added Net: Name=USB_DP
+Added Pin To Net: NetName=VCAP1 Pin=C90-2
+Added Pin To Net: NetName=VCAP1 Pin=U10-31
+Added Net: Name=VCAP1
+Added Pin To Net: NetName=VCAP2 Pin=C91-2
+Added Pin To Net: NetName=VCAP2 Pin=U10-47
+Added Net: Name=VCAP2
+Added Pin To Net: NetName=VDDA Pin=C76-2
+Added Pin To Net: NetName=VDDA Pin=C77-2
+Added Pin To Net: NetName=VDDA Pin=C78-2
+Added Pin To Net: NetName=VDDA Pin=FL-2
+Added Pin To Net: NetName=VDDA Pin=U10-12
+Added Net: Name=VDDA
+Added Pin To Net: NetName=VIN+ Pin=C7-1
+Added Pin To Net: NetName=VIN+ Pin=C8-1
+Added Pin To Net: NetName=VIN+ Pin=C12-1
+Added Pin To Net: NetName=VIN+ Pin=C43-1
+Added Pin To Net: NetName=VIN+ Pin=C44-1
+Added Pin To Net: NetName=VIN+ Pin=C45-1
+Added Pin To Net: NetName=VIN+ Pin=C46-1
+Added Pin To Net: NetName=VIN+ Pin=C47-1
+Added Pin To Net: NetName=VIN+ Pin=C48-1
+Added Pin To Net: NetName=VIN+ Pin=C49-1
+Added Pin To Net: NetName=VIN+ Pin=J24-1
+Added Pin To Net: NetName=VIN+ Pin=J24-2
+Added Pin To Net: NetName=VIN+ Pin=J24-3
+Added Pin To Net: NetName=VIN+ Pin=J24-4
+Added Pin To Net: NetName=VIN+ Pin=J24-5
+Added Pin To Net: NetName=VIN+ Pin=J24-6
+Added Pin To Net: NetName=VIN+ Pin=R7-2
+Added Net: Name=VIN+
+Added Pin To Net: NetName=VSENSE_U Pin=R4-1
+Added Pin To Net: NetName=VSENSE_U Pin=R8-2
+Added Pin To Net: NetName=VSENSE_U Pin=U10-14
+Added Net: Name=VSENSE_U
+Added Pin To Net: NetName=VSENSE_V Pin=R5-1
+Added Pin To Net: NetName=VSENSE_V Pin=R9-2
+Added Pin To Net: NetName=VSENSE_V Pin=U10-15
+Added Net: Name=VSENSE_V
+Added Pin To Net: NetName=VSENSE_W Pin=R6-1
+Added Pin To Net: NetName=VSENSE_W Pin=R10-2
+Added Pin To Net: NetName=VSENSE_W Pin=U10-16
+Added Net: Name=VSENSE_W
+Added Pin To Net: NetName=VSENSE Pin=R7-1
+Added Pin To Net: NetName=VSENSE Pin=R11-2
+Added Pin To Net: NetName=VSENSE Pin=U10-11
+Added Net: Name=VSENSE
+Change Class Name : Old Net Name=PowerBoard New Net Name=Driver
+Added Class: Name=Controller
+Added Member To Class: ClassName=Driver Member=Component C13 100nF
+Added Member To Class: ClassName=Driver Member=Component C14 4.7uF
+Added Member To Class: ClassName=Driver Member=Component C15 100nF
+Added Member To Class: ClassName=Driver Member=Component C16 100nF
+Added Member To Class: ClassName=Driver Member=Component C17 100nF
+Added Member To Class: ClassName=Driver Member=Component C18 100nF
+Added Member To Class: ClassName=Driver Member=Component C19 100nF
+Added Member To Class: ClassName=Driver Member=Component C20 2.2uF
+Added Member To Class: ClassName=Driver Member=Component C24 4.7uF
+Added Member To Class: ClassName=Driver Member=Component C25 100nF
+Added Member To Class: ClassName=Driver Member=Component C26 100nF
+Added Member To Class: ClassName=Driver Member=Component C30 2.2uF
+Added Member To Class: ClassName=Driver Member=Component C31 4.7uF
+Added Member To Class: ClassName=Driver Member=Component C32 100nF
+Added Member To Class: ClassName=Driver Member=Component C33 100nF
+Added Member To Class: ClassName=Driver Member=Component C34 4.7uF
+Added Member To Class: ClassName=Driver Member=Component C35 100nF
+Added Member To Class: ClassName=Driver Member=Component C36 100nF
+Added Member To Class: ClassName=Driver Member=Component C37 100nF
+Added Member To Class: ClassName=Driver Member=Component C38 100nF
+Added Member To Class: ClassName=Driver Member=Component C39 100nF
+Added Member To Class: ClassName=Driver Member=Component C40 2.2uF
+Added Member To Class: ClassName=Driver Member=Component D1 SS115
+Added Member To Class: ClassName=Driver Member=Component D2 B140HW-7
+Added Member To Class: ClassName=Driver Member=Component D3 B140HW-7
+Added Member To Class: ClassName=Driver Member=Component D4 SS115
+Added Member To Class: ClassName=Driver Member=Component D5 B140HW-7
+Added Member To Class: ClassName=Driver Member=Component D6 B140HW-7
+Added Member To Class: ClassName=Driver Member=Component D7 SS115
+Added Member To Class: ClassName=Driver Member=Component D8 B140HW-7
+Added Member To Class: ClassName=Driver Member=Component D9 B140HW-7
+Added Member To Class: ClassName=Driver Member=Component J15 PHASE_U
+Added Member To Class: ClassName=Driver Member=Component J16 PHASE_V
+Added Member To Class: ClassName=Driver Member=Component J17 PHASE_U
+Added Member To Class: ClassName=Driver Member=Component J24 Header 6 Pin_2
+Added Member To Class: ClassName=Driver Member=Component J25 Header 6 Pin_2
+Added Member To Class: ClassName=Driver Member=Component R15 2.2R
+Added Member To Class: ClassName=Driver Member=Component R16 4.7R
+Added Member To Class: ClassName=Driver Member=Component R17 20R
+Added Member To Class: ClassName=Driver Member=Component R18 2.2k
+Added Member To Class: ClassName=Driver Member=Component R19 2.2k
+Added Member To Class: ClassName=Driver Member=Component R20 2.2k
+Added Member To Class: ClassName=Driver Member=Component R21 20R
+Added Member To Class: ClassName=Driver Member=Component R22 20R
+Added Member To Class: ClassName=Driver Member=Component R23 20R
+Added Member To Class: ClassName=Driver Member=Component R24 10k
+Added Member To Class: ClassName=Driver Member=Component R27 2.2R
+Added Member To Class: ClassName=Driver Member=Component R29 20R
+Added Member To Class: ClassName=Driver Member=Component R30 2.2k
+Added Member To Class: ClassName=Driver Member=Component R31 2.2k
+Added Member To Class: ClassName=Driver Member=Component R32 2.2k
+Added Member To Class: ClassName=Driver Member=Component R34 20R
+Added Member To Class: ClassName=Driver Member=Component R36 10k
+Added Member To Class: ClassName=Driver Member=Component R37 20R
+Added Member To Class: ClassName=Driver Member=Component R38 4.7R
+Added Member To Class: ClassName=Driver Member=Component R39 2.2R
+Added Member To Class: ClassName=Driver Member=Component R40 4.7R
+Added Member To Class: ClassName=Driver Member=Component R41 20R
+Added Member To Class: ClassName=Driver Member=Component R42 2.2k
+Added Member To Class: ClassName=Driver Member=Component R43 2.2k
+Added Member To Class: ClassName=Driver Member=Component R44 2.2k
+Added Member To Class: ClassName=Driver Member=Component R45 20R
+Added Member To Class: ClassName=Driver Member=Component R48 10k
+Added Member To Class: ClassName=Driver Member=Component R50 4.7R
+Added Member To Class: ClassName=Driver Member=Component U4 UCC21520ADW
+Added Member To Class: ClassName=Driver Member=Component U5 UCC21520ADW
+Added Member To Class: ClassName=Driver Member=Component U6 UCC21520ADW
+Change Room Name: Old Name=PowerBoard New Name=Driver
+Change Room Scope: Old Scope=InComponentClass('PowerBoard') New Scope=InComponentClass('Driver')
+Added Room: Name=Controller

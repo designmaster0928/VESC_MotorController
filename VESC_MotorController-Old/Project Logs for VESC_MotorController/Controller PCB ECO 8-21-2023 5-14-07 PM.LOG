@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=J10 Old Footprint=61300511121 New Footprint=61300511021
+Change component parameters: Designator = "J10" ("J10"); Footprint = "61300511121"; UniqueID = "\HUSYRMIZ" ("\HUSYRMIZ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "61300511021"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.44"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "710-61300511021"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "61300511021"; VariantName = "[No Variations]"
