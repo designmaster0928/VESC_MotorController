@@ -1,4 +1,0 @@
-Added Pin To Net: NetName=+3V3 Pin=R80-2
-Added Pin To Net: NetName=+3V3 Pin=R81-2
-Added Pin To Net: NetName=+3V3 Pin=R82-2
-Added Member To Class: ClassName=Controller Member=Component R6 33k
